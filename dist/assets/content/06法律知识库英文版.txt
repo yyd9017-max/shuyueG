@@ -1,0 +1,964 @@
+06 · LEGAL & REGULATORY LIBRARY
+From Business Questions to Legal Rules
+The questions companies face in cross-border operations rarely arrive as neat, self-contained “legal questions”. More often, they begin as practical business questions:
+“Can we establish a company in Belgium?” “Can our employees from China come directly to Belgium to work?” “What requirements must our product meet before entering the EU market?” “If we collaborate with a European university, who will own the R&D results?” “What should we clarify before signing this cross-border cooperation agreement?”
+Behind these seemingly straightforward questions often lie multiple legal relationships, regulatory fields and layers of jurisdiction.
+This library follows typical scenarios encountered by Chinese companies entering the Belgian and wider EU markets. Starting from the practical questions businesses actually face, it explores company establishment, workforce mobility, cross-border contracts, technology and R&D, intellectual property, and the evolving regulatory requirements governing EU market access.
+EU LAW · BELGIAN LAW · WALLONIA · CHINA–EUROPE BUSINESS
+
+01 · THE LEGAL LANDSCAPE
+One Business Journey. Multiple Legal Layers.
+For a company entering Europe, legal questions do not end once the company has been incorporated or has formally “landed”.
+From choosing how to enter the market and establishing local operations, to bringing in employees, entering commercial relationships, conducting R&D, expanding into the market and pursuing long-term growth, every step forward may create new legal relationships. A seemingly simple business decision may also engage several areas of law at the same time.
+Rather than placing company law, employment law, contract law and intellectual property into separate boxes, I prefer to look at these issues along the actual journey of a business. Law does not exist separately from business. Legal questions emerge, intersect and evolve as the company itself moves forward.
+ENTER → ESTABLISH → PEOPLE → DO BUSINESS → INNOVATE → GROW
+This Legal Landscape follows exactly that journey — from entering Europe to developing a long-term presence.
+Where the business goes, legal questions follow.
+
+02 · REGULATORY FOCUS
+Technology · Green Transition · Security
+If the Legal Landscape above looks at the legal questions a company may encounter throughout its development, this section focuses more closely on another question:
+Which regulatory developments should technology companies entering Europe identify early?
+Beyond traditional questions of corporate law, contracts, employment and intellectual property, developments in artificial intelligence, data, cybersecurity, sustainable products, critical technologies and economic security are increasingly connected to product design, technology collaboration, investment structures, supply chains and market access.
+These areas do not operate in isolation. A single product may engage AI, data and cybersecurity rules at the same time. Green-transition objectives may move from broad policy goals into specific product requirements. For companies operating in strategic sectors such as semiconductors, a European project may simultaneously raise questions relating to technology cooperation, investment screening and supply-chain resilience.
+The following six areas therefore function as regulatory observation windows — helping companies identify rules that may affect their next step before entering a particular market, launching a product or proceeding with a transaction.
+
+01 · AI
+Artificial Intelligence
+CARD
+Does the product or service involve an AI system?
+SYSTEM · ROLE · CLASSIFICATION
+Regulation (EU) 2024/1689 Artificial Intelligence Act
+Explore →
+EXPANDED VIEW
+01 · IDENTIFY
+System Does the AI functionality within the product legally constitute an AI system?
+Role Is the company acting as a provider, deployer, importer, distributor, or another type of operator?
+Classification Does the system fall within prohibited AI practices, high-risk AI systems, specific transparency obligations, or another category?
+Obligations Based on the classification of the system and the company’s role, what specific obligations apply?
+02 · KEY LEGAL SOURCES
+Regulation (EU) 2024/1689 — Artificial Intelligence Act
+IN FORCE · PHASED APPLICATION
+Article 1 — Subject Matter Establishes harmonised rules governing the placing on the market, putting into service and use of AI systems in the European Union, including rules on prohibited AI practices, requirements for high-risk AI systems, specific transparency obligations and general-purpose AI models.
+Article 2 — Scope Defines the personal and territorial scope of the Regulation. This includes third-country providers placing AI systems on the EU market and, in certain circumstances, third-country providers or deployers where the output produced by an AI system is used in the European Union.
+EUR-Lex currently provides a consolidated version dated 27 July 2026.
+03 · BUSINESS RELEVANCE
+AI is only the technological starting point. The company’s role and the context of use determine how the rules apply.
+Developing an AI system, placing one on the market and deploying one internally may raise very different legal questions. Rather than beginning with the entire body of AI regulation, it is more useful to establish first what the system is, who is using or providing it, and in what context it is being used.
+Understand how the AI is used first. Then determine how the rules apply.
+VIEW OFFICIAL TEXT · Artificial Intelligence Act ↗
+
+02 · DATA
+Data & Digital Regulation
+CARD
+What data is involved, and how is it used?
+PERSONAL DATA · ACCESS · SHARING
+GDPR · Data Act
+Explore →
+EXPANDED VIEW
+01 · IDENTIFY
+Data Does the activity involve personal data, non-personal data, or data generated by connected products?
+Role Who determines how the data is processed? Who holds the data or has access to it?
+Use Why is the data being collected, processed and used?
+Flow Is the data shared between users, companies or business partners? Does it move across borders?
+02 · KEY LEGAL SOURCES
+Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)
+IN FORCE · APPLICABLE
+Article 5 — Principles relating to processing of personal data Establishes the core principles governing personal data processing, including lawfulness, fairness and transparency; purpose limitation; data minimisation; accuracy; storage limitation; integrity and confidentiality; and accountability.
+Article 6 — Lawfulness of processing Processing of personal data must have an appropriate lawful basis.
+Chapter V — Transfers to Third Countries or International Organisations Where personal data is transferred to a third country outside the EU or to an international organisation, the conditions governing international transfers under Chapter V must also be considered.
+Regulation (EU) 2023/2854 — Data Act
+IN FORCE · APPLICABLE FROM 12 SEP 2025
+The Data Act further addresses issues including access to and use of data generated by connected products and related services, the making available of data between data holders and recipients, and switching between data-processing services.
+The Regulation generally applies from 12 September 2025, although certain specific obligations are subject to separate phased application arrangements.
+03 · BUSINESS RELEVANCE
+Understanding data compliance begins with understanding how data moves.
+Where does the data come from? Who can access it? Why is it being used? Will it be shared or transferred across borders?
+These factual questions are often more useful than simply saying that “the business involves data”. Once the data flows are mapped, it becomes much easier to identify where the GDPR, the Data Act or other rules may enter the picture.
+Once the data flow is clear, the legal questions have coordinates.
+VIEW OFFICIAL TEXT · GDPR ↗ VIEW OFFICIAL TEXT · Data Act ↗
+
+03 · CYBERSECURITY
+Cyber Resilience
+CARD
+Does the product contain digital elements?
+PRODUCT SECURITY · VULNERABILITY · LIFECYCLE
+Regulation (EU) 2024/2847 Cyber Resilience Act
+Explore →
+EXPANDED VIEW
+01 · IDENTIFY
+Product Does the product fall within the concept of a product with digital elements?
+Role Is the company acting as a manufacturer, importer, distributor, or another economic operator?
+Security What cybersecurity requirements apply during the design, development and production of the product?
+Lifecycle Once the product has been placed on the market, how do vulnerability-handling and maintenance obligations continue throughout its lifecycle?
+02 · KEY LEGAL SOURCES
+Regulation (EU) 2024/2847 — Cyber Resilience Act
+IN FORCE · PHASED APPLICATION
+Article 1 — Subject Matter Establishes rules governing the making available on the market of products with digital elements, together with cybersecurity requirements relating to product design, development, production and vulnerability handling.
+Article 13 — Obligations of Manufacturers Manufacturers are required to undertake a cybersecurity risk assessment and take the relevant requirements into account throughout the planning, design, development, production, delivery and maintenance of the product.
+Annex I — Essential Cybersecurity Requirements Sets out essential cybersecurity requirements relating to products and vulnerability handling.
+Application Timeline The CRA generally applies from 11 December 2027. Article 14 applies from 11 September 2026, while Chapter IV applies from 11 June 2026. Specific obligations must therefore be assessed in light of their respective application dates.
+03 · BUSINESS RELEVANCE
+Cybersecurity is becoming part of the product lifecycle.
+For products with digital elements, security is no longer something to address only after a problem occurs. From design and development to market entry and ongoing maintenance, cybersecurity requirements may accompany the product throughout its lifecycle.
+The earlier these requirements are identified, the easier it becomes to integrate security into ordinary product development.
+The earlier security is built in, the less compliance feels like homework done at the last minute.
+VIEW OFFICIAL TEXT · Cyber Resilience Act ↗
+
+04 · GREEN
+Sustainable Products
+CARD
+What sustainability requirements may apply?
+DURABILITY · REPAIRABILITY · PRODUCT INFORMATION
+Regulation (EU) 2024/1781 Ecodesign for Sustainable Products Regulation
+Explore →
+EXPANDED VIEW
+01 · IDENTIFY
+Product Does the product fall within the relevant product scope?
+Requirements Could requirements relating to durability, repairability, resource efficiency, recyclability or other sustainability characteristics apply?
+Information What product and sustainability information may the company need to provide?
+Implementation Has a relevant delegated act been adopted for the particular product category, and when does it apply?
+02 · KEY LEGAL SOURCES
+Regulation (EU) 2024/1781 — Ecodesign for Sustainable Products Regulation (ESPR)
+IN FORCE · PRODUCT-SPECIFIC IMPLEMENTATION
+The ESPR establishes an overarching framework for setting ecodesign requirements for sustainable products. The specific requirements applicable to a particular product must be assessed in conjunction with the relevant product category and any delegated acts adopted pursuant to Article 4.
+Article 9 — Digital Product Passport Where required by the applicable delegated acts, relevant products must have a Digital Product Passport meeting the requirements laid down in the Regulation.
+Articles 10–11 Further establish the essential requirements governing the Digital Product Passport, including aspects of its technical design and operation.
+03 · BUSINESS RELEVANCE
+The green transition begins to affect businesses directly when broad policy objectives become concrete product requirements.
+“Sustainability” is a broad concept. What a company ultimately needs to know is much more specific: whether its product is affected, what information must be provided, and when the relevant requirements begin to apply.
+What matters is finding the point where the “green transition” connects with the actual product.
+VIEW OFFICIAL TEXT · Ecodesign for Sustainable Products Regulation ↗
+
+05 · CRITICAL TECHNOLOGY
+Chips & Strategic Technology
+CARD
+What does the company plan to do with the technology in Europe?
+SEMICONDUCTORS · TECHNOLOGY · TRANSACTION
+EU Chips Act · Investment Screening
+Explore →
+EXPANDED VIEW
+01 · IDENTIFY
+Activity Is the company selling products, establishing an R&D centre, manufacturing, or entering into technology cooperation?
+Technology Does the project involve semiconductors or another form of critical technology?
+Transaction Does the project involve an investment, acquisition or change of control?
+Jurisdiction Does the specific project fall within an EU or Member State investment-screening regime or another relevant regulatory framework?
+02 · KEY LEGAL SOURCES
+INDUSTRIAL FRAMEWORK
+Regulation (EU) 2023/1781 — European Chips Act
+IN FORCE
+Article 1 — Subject Matter and General Objectives
+Establishes a framework for strengthening the EU semiconductor ecosystem, including the Chips for Europe Initiative, advanced manufacturing facilities, security of supply, monitoring of the semiconductor sector and crisis-response mechanisms.
+It provides an important institutional and industrial framework for the semiconductor sector, but does not constitute a standalone market-access regime for foreign semiconductor products.
+INVESTMENT SCREENING
+Regulation (EU) 2019/452 CURRENT FRAMEWORK
+Regulation (EU) 2026/1386 IN FORCE · MAIN APPLICATION FROM 17 JAN 2028
+Regulation (EU) 2026/1386 establishes a new EU framework for the screening of foreign investments.
+The Regulation entered into force on 16 July 2026, with certain provisions applying from that date and the main framework applying from 17 January 2028. The applicable rules for a particular investment must therefore be assessed in light of the timing of the transaction and the relevant transitional arrangements.
+03 · BUSINESS RELEVANCE
+The legal pathway for critical technology depends on what the company actually plans to do in Europe.
+Selling products, establishing an R&D centre, entering into technology cooperation, or making an investment or acquisition may all be described as “entering Europe”, but they can engage very different legal and regulatory frameworks.
+Understand the project first. Then identify the rules.
+VIEW OFFICIAL TEXT · European Chips Act ↗ VIEW OFFICIAL TEXT · Regulation (EU) 2019/452 ↗ VIEW OFFICIAL TEXT · Regulation (EU) 2026/1386 ↗
+
+06 · ECONOMIC SECURITY
+Policy, Law & Business Exposure
+CARD
+Has a strategic policy concern become an applicable legal rule?
+POLICY · LEGAL STATUS · APPLICABILITY
+Economic Security · Regulatory Change
+Explore →
+EXPANDED VIEW
+01 · IDENTIFY
+Policy Is this a broad policy direction, a strategic document, or a measure that has already entered the legislative process?
+Legal Status Is the relevant measure still a proposal, has it been adopted as legislation, or has it already become applicable?
+Scope Does it concern investment, technology, supply chains or another specific activity?
+Applicability Do the facts of the company’s current project actually fall within the scope of the rule?
+02 · KEY LEGAL SOURCES
+CURRENT FRAMEWORK
+Regulation (EU) 2019/452 — FDI Screening
+IN FORCE · CURRENTLY APPLICABLE
+An important legal basis for the EU’s current framework for the screening of foreign direct investments.
+NEW FRAMEWORK
+Regulation (EU) 2026/1386 — Screening of Foreign Investments in the Union
+IN FORCE · TRANSITION TO NEW FRAMEWORK
+The new Regulation entered into force on 16 July 2026. Certain provisions already apply, while the main framework applies from 17 January 2028. Article 30 also establishes transitional arrangements governing the relationship with Regulation (EU) 2019/452.
+In a rapidly evolving area such as economic security, confirming that a rule “has been adopted” is therefore not enough. It is also necessary to establish whether it is already applicable and whether it applies to the company or transaction at hand.
+03 · BUSINESS RELEVANCE
+Policy signals matter, but business obligations must ultimately be traced back to applicable law.
+Investment, critical technologies and supply chains are increasingly prominent in economic-security discussions. But being the subject of policy attention does not automatically mean that a legal obligation already exists.
+Distinguish policy from law, and adoption from application — then assess what the rule means for the company’s next step.
+VIEW OFFICIAL TEXT · Regulation (EU) 2019/452 ↗ VIEW OFFICIAL TEXT · Regulation (EU) 2026/1386 ↗
+03 · FEATURED LEGAL RESEARCH
+From Business Scenario to Legal Analysis
+When legal issues enter a real business project, they rarely appear as a single provision of law.
+The following cases are based on practical scenarios that Chinese companies may encounter when operating in Belgium and the wider EU. From employee postings and joint R&D to cross-border contracts and product market access, they illustrate how to start from the facts, identify the legal issues, locate the applicable rules, and translate legal analysis into the matters a company needs to confirm and address next.
+
+01 · PEOPLE
+Cross-border Employment & Employee Posting
+How should a Chinese company arrange for employees to work in Belgium?
+BELGIUM · WALLONIA · EMPLOYMENT · CROSS-BORDER POSTING
+
+A · GENERAL APPROACH
+When a Chinese company sends employees to work in Belgium, the first step is to establish a few basic facts: how long the employees will stay, where they will work, who will employ and pay them, and whether they will return to China after the assignment.
+From there, five questions can be considered in sequence:
+01 · Work & Residence — Do the employees require Belgian authorisation to work and reside in Belgium?
+02 · Employment Structure — Are they being temporarily posted by the Chinese company, or locally employed in Belgium?
+03 · Employment Conditions — Which rules on remuneration, working time and employment protection apply while they work in Belgium?
+04 · Posting Formalities — Are Limosa and other posting formalities required?
+05 · Social Security & Tax — How should social security and taxation be addressed?
+The phrase “sending employees from China to Belgium” may describe very different legal arrangements.
+The duration of the assignment and the employment structure can change the legal pathway.
+
+B · CASE
+NovaMed Technologies · Employee Posting to Belgium
+NovaMed Technologies, a fictional Chinese medical technology company, has established NovaMed Belgium SRL in Wallonia to support the initial development of its European business.
+Following the launch of its Belgian operations, the Chinese parent company plans to send three existing employees to Belgium for 11 months:
+Employee
+Age
+Position
+Education
+Experience
+Annual Gross Salary
+A
+31
+Business Development Manager
+Bachelor’s in Business
+5 years
+€58,000
+B
+29
+Technical Engineer
+Master’s in Engineering
+4 years
+€56,000
+C
+27
+Operations Coordinator
+Bachelor’s in Management
+3 years
+€44,000
+All three employees are Chinese nationals currently living and working in China. None has any other right to work in Belgium or the EU.
+NovaMed intends to maintain their employment relationships with the Chinese parent company, with salaries continuing to be paid by the Chinese company. The three employees will work primarily in Wallonia in support of the Belgian subsidiary’s operations and will return to China after 11 months. NovaMed Belgium does not currently intend to enter into separate local employment contracts with them.
+The company originally planned to retain its existing schedule of five days per week and eight hours per day — 40 hours per week.
+On these facts, the arrangement is a typical temporary cross-border posting: the existing foreign employment relationship continues while the employees work in Belgium for a defined period, after which they return to their original employer. Belgian posting rules similarly treat the continuation of the employment relationship with the foreign employer during the posting as an important element.
+Questions NovaMed Needs to Resolve
+Under what status should the three employees work in Belgium?
+Can their Chinese employment contracts and salary arrangements remain in place?
+Can the existing 40-hour working week continue?
+And what formalities must the company complete before they actually begin working?
+
+C · LEGAL ANALYSIS
+Q1 · Can the three employees simply come to Belgium and work for 11 months?
+No. An 11-month assignment cannot simply be treated as an ordinary business visit.
+All three employees are third-country nationals, their principal place of work will be in Wallonia, and the intended assignment lasts 11 months.
+For third-country nationals intending to work in Belgium for 90 days or more, and in the absence of an applicable exemption or other special circumstances, a limited-duration Single Permit (permis unique de durée limitée) is in principle required in order to obtain the relevant authorisation to work and reside in Belgium.
+The application is submitted by the employer through Working in Belgium. The competent Walloon authority deals with the work-authorisation component, while the residence component is handled by the Office des Étrangers.
+Legal Basis
+Primary Legal Sources
+Loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers
+Arrêté du Gouvernement wallon du 6 juin 2024 relatif à l'admission au travail de travailleurs étrangers, as amended
+Official Guidance
+Wallonia · Permis unique de durée limitée
+Application to the Case
+Employees A, B and C should complete the relevant Single Permit procedure before commencing work in Belgium.
+Their status as employees of the Chinese parent company does not, by itself, give them the right to work in Belgium.
+
+Q2 · Which work-authorisation category could apply to the three employees?
+On the facts of this case, the Walloon category for highly qualified personnel (personnel hautement qualifié) can be considered first.
+This category requires the applicant to meet the relevant qualification requirements and salary threshold. Under the applicable rules, higher-education qualifications may satisfy the EQF Level 6 qualification requirement, and holding a higher-education diploma is one way of meeting that requirement.
+For 2026, the relevant annual gross salary thresholds are:
+Age 30 or above: €53,220 per year Under age 30: €42,576 per year
+The applicable thresholds are adjusted annually.
+Applying those thresholds to the three NovaMed employees:
+Employee
+Qualification
+2026 Salary Threshold
+Assessment
+A · Age 31
+Bachelor’s
+€58,000 > €53,220
+Meets threshold
+B · Age 29
+Master’s
+€56,000 > €42,576
+Meets threshold
+C · Age 27
+Bachelor’s
+€44,000 > €42,576
+Meets threshold
+On the facts provided, all three employees satisfy both the qualification requirement and the 2026 salary threshold for the highly qualified personnel category.
+NovaMed could therefore prepare their Single Permit applications on this basis. The complete supporting documentation would still need to be submitted, and the competent authorities would assess whether the other applicable legal conditions are satisfied.
+Legal Basis
+Primary Legal Sources
+Arrêté du Gouvernement wallon du 6 juin 2024, as amended — Arts. 23–24
+Official Guidance
+Wallonia · Highly Qualified Personnel Wallonia · 2026 Salary Thresholds 
+Q3 · Can the Chinese employment contracts remain in place, with salaries continuing to be paid from China?
+Yes.
+A temporary posting does not, by itself, require the employees to enter into Belgian employment contracts. Nor does it necessarily require their salaries to be paid by the Belgian company.
+However, two questions must be kept separate:
+who pays the salary, and which mandatory employment conditions apply while the employees work in Belgium.
+Once employees are posted to Belgium, the foreign employer must still comply with the mandatory employment conditions applicable to their work in Belgium, including rules relating to remuneration, working time, public holidays, minimum paid annual leave, health and safety, among others.
+Applicable sectoral collective labour agreements (CCTs) may also need to be considered.
+NovaMed may therefore retain the basic structure:
+Chinese parent company remains the employer + Chinese parent company continues to pay the salary
+But the remuneration and employment conditions actually provided while the employees work in Belgium must still comply with the applicable Belgian mandatory standards.
+The specific minimum remuneration requirements must also be assessed by reference to the competent joint committee (commission paritaire) and the relevant sectoral collective labour agreements.
+Legal Basis
+Primary Legal Source
+Loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique
+Official Guidance
+Belgian Federal Employment Service · Posting Conditions
+
+Q4 · Can NovaMed keep the existing 40-hour working week?
+Potentially, but it cannot simply copy the Chinese head office’s 40-hour schedule into Belgium without further analysis.
+Belgium generally operates on the basis of 38 hours of actual work per week, or an average of 38 hours per week over an applicable reference period.
+Depending on the applicable working-time arrangement, employees may therefore work 40 actual hours per week while receiving compensatory rest so that average working time is reduced to 38 hours.
+A typical arrangement identified by the Belgian Federal Employment Service is:
+40 hours per week + 12 compensatory rest days per year → average of 38 hours per week
+This is, however, only the general position.
+NovaMed must first identify the competent joint committee (commission paritaire) for the Belgian subsidiary and the relevant positions, because applicable sectoral collective labour agreements may establish different or shorter normal working hours.
+For NovaMed, therefore, the existing 40-hour week does not necessarily need to become a literal 38-hour week.
+But neither can it simply remain unchanged.
+The applicable sectoral framework should be identified first, after which the working-time and compensatory-rest arrangements can be structured accordingly.
+Legal Basis
+Primary Legal Source
+Loi du 16 mars 1971 sur le travail
+Official Guidance
+Belgian Federal Employment Service · Working Time and Rest
+Q5 · Once the Single Permits have been obtained, what else does the company need to do?
+The Single Permit addresses the employees’ authorisation to work and reside in Belgium.
+As a foreign company temporarily posting employees to Belgium, however, NovaMed must separately address the formalities associated with the cross-border posting itself.
+Unless an exemption applies, the Chinese parent company must complete a Limosa declaration before the employees begin working in Belgium.
+In addition, the foreign employer must designate a liaison person (personne de liaison) to act as the employer’s point of contact for the necessary exchange of documents and information with the Belgian labour inspection authorities.
+NovaMed therefore needs to deal separately with:
+Single Permit → Work and residence authorisation
+Limosa → Cross-border posting declaration
+Liaison person & relevant documentation → Labour-inspection requirements during the posting
+These obligations are related.
+But one does not replace another.
+Legal Basis
+Primary Legal Sources
+Programme Law (I) of 27 December 2006 — Limosa framework
+Loi du 5 mars 2002 concernant les conditions de travail, de rémunération et d'emploi en cas de détachement de travailleurs en Belgique
+Official Procedure
+Working in Belgium · Limosa
+
+Q6 · If salaries continue to be paid from China, can social security also remain exclusively in China?
+That conclusion cannot be drawn from the salary arrangement alone.
+Cross-border posting under employment law, work authorisation and the applicable social-security regime are separate legal questions.
+Even if the employment contracts remain with the Chinese company and salaries continue to be paid from China, the social-security position during the posting must still be determined separately.
+For applications under the highly qualified personnel category, Wallonia expressly requires that where a posted foreign employee does not pay Belgian social-security contributions, the application include the relevant certificate of posting (certificat de détachement) or an individual social-security agreement (accord individuel de la sécurité sociale).
+NovaMed should therefore determine the applicable social-security arrangement before the employees travel to Belgium and prepare the necessary supporting documentation according to their circumstances.
+Without an applicable legal basis and the required evidence, the company cannot simply assume that Belgian social-security obligations do not arise because the salaries are paid from China.
+Tax must also be analysed separately.
+An 11-month period of actual work in Belgium makes individual income tax, tax residence and the relevant cross-border tax arrangements matters requiring further analysis.
+Again, the answer should not be inferred solely from where the salary is paid.
+
+D · FINAL POSITION
+NovaMed can retain the basic structure of employment by the Chinese parent company, salary payment from China and an 11-month temporary assignment to Belgium.
+But the arrangement needs to be treated as a formal cross-border posting — not as an ordinary overseas business trip.
+Issue
+NovaMed’s Approach
+Employment relationship
+The employment relationship with the Chinese parent company may remain in place
+Salary payment
+Salary may continue to be paid by the Chinese parent company
+Work & residence
+The three employees should obtain the relevant Single Permits before commencing work
+Permit category
+On the facts provided, all three meet the qualification requirements and 2026 salary thresholds for highly qualified personnel
+Belgian employment conditions
+Applicable mandatory Belgian employment conditions must be observed while they work in Belgium
+40-hour working week
+Identify the applicable sectoral framework first, then structure working time and compensatory rest accordingly
+Cross-border posting
+Complete Limosa and the relevant posting formalities before work begins
+Social security
+Determine the applicable regime separately and obtain the required supporting documentation
+Tax
+Analyse separately based on the actual posting, residence and remuneration arrangements
+PRACTICAL IMPLEMENTATION
+Before travelling to Belgium
+→ Apply for the Single Permits → Confirm the applicable social-security arrangements
+Before work formally begins
+→ Complete the Limosa declarations → Designate the liaison person and prepare the required posting documentation → Identify the applicable joint committee and working-time framework
+During the 11-month posting
+→ Comply with the applicable mandatory Belgian employment conditions → Retain the necessary documentation and continue meeting the relevant compliance obligations
+The Chinese employment relationship can continue. Once the employees actually begin working in Belgium, the relevant Belgian rules enter the picture.
+The legal content has been reviewed against official Belgian and Walloon sources and is updated to September 2026. NovaMed Technologies and the specific facts of this case are fictional and are used solely for legal research and professional portfolio purposes. This material does not constitute legal advice on any specific matter.
+
+02 · IP & R&D
+Intellectual Property & R&D Collaboration
+When a Chinese company conducts joint R&D with a Belgian university, who actually owns the resulting technology?
+BELGIUM · SOFTWARE · PATENTS · TRADE SECRETS · JOINT R&D
+
+A · GENERAL APPROACH
+When joint R&D produces new technology, it is rarely enough to ask one question:
+“Who owns the IP?”
+A single project may generate software code, technical inventions, research data, algorithmic know-how and trade secrets.
+Different outputs may fall under different legal frameworks, and their ownership may not be the same.
+The analysis should therefore usually begin with five questions:
+01 · Background vs New Results — Which technologies existed before the collaboration, and which were created during the project?
+02 · Nature of the Result — Is the result software, a potentially patentable invention, or undisclosed technical information?
+03 · Initial Ownership — To whom does the law initially allocate the relevant rights?
+04 · Disclosure & Protection — Could publication of a paper or another form of disclosure affect patent or trade-secret protection?
+05 · Commercialisation Rights — Does the company already have the rights it needs to exploit the results, or does it still require a licence or assignment?
+First determine where the law places the rights. Then determine what the company still needs to obtain.
+
+B · CASE
+NovaMed Technologies · Joint R&D Project in Belgium
+NovaMed Technologies plans to enter into an 18-month joint medical-technology R&D project with a Belgian university.
+Before the project begins, NovaMed has already independently developed MedCore, a medical data-analysis software platform in China.
+NovaMed owns the existing source code, model architecture and internal technical documentation, none of which has been made public.
+Once the collaboration begins, NovaMed gives the university research team access to part of the MedCore source code and technical materials. University professors and doctoral researchers conduct algorithmic research, while NovaMed engineers also participate in the development work.
+Six months later, the project produces two important results.
+Result A
+A doctoral researcher develops a new set of model-training code based on MedCore.
+Result B
+A university professor, a doctoral researcher and a NovaMed engineer jointly develop a new method for processing medical-device data. The technical team believes the method may have patent potential.
+At the same time, the university research team is preparing an academic paper.
+NovaMed, meanwhile, hopes eventually to use the results exclusively in its European products.
+But the original collaboration document contains only one sentence:
+“Intellectual property arising from the project shall be discussed by the parties in good faith.”
+Questions NovaMed Needs to Resolve
+Does MedCore’s ownership change simply because it is used in the collaboration?
+Who owns the new code written by the doctoral researcher?
+Who has the right to apply for a patent for the jointly developed technology?
+Can the university publish the paper first?
+And, ultimately, does NovaMed automatically have the right to use the results in its European products?
+
+C · LEGAL ANALYSIS
+Q1 · Does MedCore become jointly owned simply because it enters the collaborative project?
+No. Existing rights do not automatically change simply because the underlying technology is brought into a collaborative project.
+However, MedCore itself needs to be broken down into its different legal components.
+For software, Directive 2009/24/EC requires Member States to protect computer programs by copyright. The Directive protects the expression of a computer program rather than the underlying ideas and principles. Software satisfying the originality requirement does not need patent registration in order to receive copyright protection.
+MedCore’s undisclosed model parameters, technical methods, R&D materials and know-how may instead fall within the framework of trade-secret protection.
+For information to qualify as a trade secret, it must satisfy three elements: it must be secret, have commercial value because it is secret, and have been subject to reasonable steps by the person lawfully in control of the information to keep it secret.
+Primary Legal Sources
+Directive 2009/24/EC on the legal protection of computer programs — Arts. 1–2
+EUR-Lex · Directive 2009/24/EC
+Directive (EU) 2016/943 on the protection of trade secrets — Art. 2(1)
+EUR-Lex · Directive (EU) 2016/943
+Application to the Case
+The MedCore code created by NovaMed before the collaboration does not automatically become jointly owned merely because university researchers are given access to it for the project.
+But NovaMed first needs to identify what exactly it is protecting:
+Software code → Copyright
+Technical inventions → Further assessment for patent protection
+Undisclosed technical information → Trade secrets
+The purpose of defining Background IP, therefore, is not to create new intellectual property rights.
+It is to establish the boundary around the rights and technology that already existed before the collaboration began.
+
+Q2 · NovaMed is funding the R&D. Does that mean the new code written by the doctoral researcher belongs to NovaMed?
+Not simply because NovaMed provides the funding.
+For software, more specific rules govern the allocation of rights.
+Article 2(3) of Directive 2009/24/EC provides that where a computer program is created by an employee in the execution of their duties or following instructions given by their employer, the employer is exclusively entitled to exercise the economic rights in the program unless otherwise provided by contract.
+The applicable Belgian framework also provides specific treatment for employee-created software.
+The key questions are therefore:
+Who actually created the code?
+What is that person’s legal or employment relationship with the relevant institution?
+Was the code created within the scope of that person’s duties?
+Primary Legal Source
+Directive 2009/24/EC — Art. 2(3)
+EUR-Lex · Directive 2009/24/EC
+Official Guidance
+FPS Economy · Who holds the copyright to software?
+FPS Economy · Who does an invention or patent belong to?
+Application to the Case
+If Result A was created by a university doctoral researcher within the scope of their research duties, NovaMed cannot conclude that it owns the new code simply because:
+“We funded the project.”
+The researcher’s legal status and the applicable ownership rules must first be established.
+If the relevant economic rights are ultimately controlled by the university side, and NovaMed wishes to incorporate the code into its own commercial products, NovaMed would need to obtain the appropriate licence or assignment.
+Funding determines how a project can be supported. It does not automatically determine who owns the intellectual property.
+
+Q3 · How should patent rights in the jointly developed technology be determined?
+The first step is not to agree immediately on a “50/50 split”.
+It is to determine who the inventors are and who holds the right to apply for the patent.
+Under Belgian patent rules, individuals who make an inventive contribution may qualify as inventors or joint inventors. In principle, the inventor or the inventor’s successor in title has the right to apply for the patent.
+Where an invention has been created jointly, default rules governing joint rights may apply, while the relevant shares may also be adjusted by written agreement.
+Employee inventions introduce additional complexity.
+Belgian patent law does not provide a simple universal rule under which every invention created in an employment context automatically belongs to the employer.
+In the absence of a clear statutory or written arrangement, disputes may require further analysis of the relationship between the invention and the employee’s duties, including distinctions between inventions created within assigned duties, inventions connected with the employment, and independent inventions. Ultimately, ownership may need to be determined by the courts.
+Official Guidance
+FPS Economy · Patents created in the context of employment
+Application to the Case
+For Result B, the first step is to reconstruct the actual inventive contributions:
+What did the professor contribute?
+What did the doctoral researcher contribute?
+What did the NovaMed engineer contribute?
+Only then should the legal relationships between those individuals and the university or NovaMed be examined, together with whether the right to apply for the patent has passed into the relevant institution’s chain of title through law, the employment relationship or a written arrangement.
+First determine who made the invention. Then determine who has the right to apply for the patent.
+
+Q4 · Can the university publish the paper first and file the patent application afterwards?
+Doing so may jeopardise novelty.
+Patent protection requires an invention to satisfy the applicable conditions of patentability, including novelty.
+If a potentially patentable invention has already been made available to the public before the filing date — through an academic paper, conference presentation, public demonstration or another form of disclosure — that disclosure may become prior art relevant to the novelty assessment.
+Publication is therefore not merely a question of:
+“Does the company agree to disclose this?”
+It may directly affect the availability of subsequent intellectual-property protection.
+Legal Basis
+Belgian patent law — novelty requirement
+Official Guidance
+FPS Economy · Conditions of Patentability
+Application to the Case
+If Result B has potential patent value, the safer sequence would be:
+Identify potential invention → Assess whether patent protection should be sought → File first where appropriate → Publish afterwards
+NovaMed therefore needs a pre-publication IP review mechanism and, where a patent filing is considered necessary, sufficient time for the relevant filing process before publication.
+The objective is not to prevent publication. It is to avoid disclosing the invention at the wrong time.
+
+Q5 · If NovaMed obtains rights in the project results, can it automatically commercialise them in Europe?
+Not necessarily.
+Owning a particular R&D result and possessing all the rights required to exploit the complete product are not the same thing.
+A jointly developed result may depend simultaneously on NovaMed’s pre-existing technology, new code or inventions controlled by the university side, and third-party technology.
+At the end of the project, it is therefore not enough to ask:
+“Who owns the result?”
+The company must also establish whether the chain of rights required for commercialisation is complete:
+Who created the result → Who initially owned the rights → Were the rights assigned or licensed → What rights did NovaMed actually obtain → Do those rights cover the intended commercial use?
+This is particularly important in software projects because the right holder has exclusive rights over acts including reproduction, alteration and distribution of the program.
+If a company intends to develop and commercially exploit a product, it must confirm that the relevant activities fall within rights it owns or has been authorised to exercise.
+Primary Legal Source
+Directive 2009/24/EC — Art. 4
+EUR-Lex · Directive 2009/24/EC
+Application to the Case
+Even if NovaMed obtains European commercialisation rights in Result B, it should still confirm:
+Whether the new code in Result A may be incorporated into the commercial product;
+Whether NovaMed has obtained ownership, an exclusive licence or a non-exclusive licence;
+Whether the territorial and field-of-use scope covers the intended product and the European market;
+Whether NovaMed Belgium and other affiliated entities are permitted to use the relevant rights;
+Whether the product incorporates any third-party technology requiring separate authorisation.
+If a critical technology has not entered a chain of rights that NovaMed can lawfully use, the fact that the R&D project itself was “successful” does not mean that the resulting product is legally ready for commercialisation.
+Owning an R&D result does not necessarily mean owning the complete set of rights required to commercialise it.
+
+D · FINAL POSITION
+NovaMed’s real objective should not be to insist simply that:
+“All IP generated by the project belongs to the company.”
+Instead, it should determine the legal status of each technical result and establish which rights NovaMed ultimately controls and which rights it still needs to obtain.
+Result / Issue
+Legal Assessment
+NovaMed’s Approach
+Existing MedCore code
+Software copyright and pre-existing rights
+Clearly define the Background IP boundary
+Undisclosed technical information
+Assess whether the conditions for trade-secret protection are satisfied
+Implement practical confidentiality measures
+New code developed by doctoral researcher
+Identify the creator and apply the relevant employee-software rules
+Determine whether a licence or assignment is required
+Joint technical invention
+Identify inventors and the right to apply for the patent
+Confirm actual contributions and the complete chain of title
+Academic publication
+Assess whether disclosure could affect patent or trade-secret protection
+Conduct IP review before determining the publication date
+European commercialisation
+Identify the rights NovaMed actually owns or is licensed to use
+Obtain any additional licences or assignments required
+PRACTICAL IMPLEMENTATION
+Before the collaboration begins
+→ Identify NovaMed’s existing rights in MedCore and relevant trade secrets → Define the scope of technology to be disclosed and establish confidentiality measures
+When new results are created
+→ Distinguish between software, inventions and other technical results → Record the actual R&D contributions → Identify the initial right holders and establish the chain of title
+Before publication or commercialisation
+→ Complete patent and trade-secret review → Confirm that NovaMed has obtained the rights required for commercialisation → Only then proceed with publication, licensing or product deployment
+What is the result → Which law protects it → Who initially owns the right → What rights does NovaMed still need → Complete the position through contract
+SOFTWARE COPYRIGHT · PATENTS · TRADE SECRETS · R&D RESULTS
+The legal content has been reviewed against applicable EU intellectual-property rules and intellectual-property materials published by the Belgian federal authorities and is updated to September 2026. NovaMed Technologies and the specific facts of this case are fictional and are used solely for legal research and professional portfolio purposes. This material does not constitute legal advice on any specific matter.
+03 · COMMERCIAL CONTRACTS
+Cross-border Commercial Contracts
+When a Chinese company signs an agreement with a Belgian distributor, what really needs to be made clear?
+CHINA–BELGIUM · EXCLUSIVE DISTRIBUTION · INTERNATIONAL SALE OF GOODS · CONTRACTUAL LIABILITY · DISPUTE RESOLUTION
+
+A · GENERAL APPROACH
+Reviewing a cross-border commercial contract is not simply a matter of checking the wording clause by clause.
+The first step is to understand the transaction structure: who is entering into the contract, what kind of relationship the parties are creating, what rights each party receives and what obligations each assumes; how goods, money and risk move through the transaction; what happens when performance goes wrong; and how the parties can eventually exit the relationship.
+For a long-term relationship between a Chinese manufacturer and a European distributor, six core questions should usually be addressed first:
+01 · Nature of the Contract — Is this a one-off sale of goods, or an ongoing distribution relationship?
+02 · Commercial Rights — How do the territory, exclusivity and sales targets relate to one another?
+03 · Performance Mechanism — How do orders, delivery, risk, acceptance and payment fit together?
+04 · Allocation of Risk — How are breach, damages and limitations of liability structured?
+05 · Exit Mechanism — When can the relationship be terminated, and what happens afterwards?
+06 · Governing Law & Disputes — Which law applies, and where will disputes be resolved?
+Understand the transaction before reading the clauses. Map how the rights and obligations connect before deciding whether an individual provision works.
+
+B · CASE
+NovaMed Technologies · Exclusive Distribution in Belgium
+NovaMed Technologies is a Chinese medical-device manufacturer preparing to enter the Belgian market through BelCare Distribution SRL, a Belgian company.
+The parties plan to enter into a three-year distribution agreement. NovaMed will manufacture and sell the devices to BelCare, which will purchase them and resell them to Belgian customers in its own name.
+The parties have already agreed on the following:
+Territory — Belgium Exclusivity — BelCare requests exclusive distribution rights for three years Minimum Purchase — 500 units per year Payment — 30% advance payment; remaining 70% payable within 30 days after “delivery” After-sales Support — NovaMed handles technical issues; BelCare manages local customer communication Governing Law — “This Agreement shall be governed by Belgian law.”
+But several important issues remain unclear in the draft.
+What happens to BelCare’s exclusivity if it fails to purchase 500 units? Where exactly does “delivery” take place, and when does transport risk pass? How should NovaMed’s liability be limited? What happens to remaining inventory, outstanding orders and after-sales obligations if the agreement terminates early? And if a dispute arises, where will it actually be resolved?
+In addition, BelCare’s draft is signed by its Business Development Director, but the documents currently available do not establish whether that person has authority to bind the company.
+Questions NovaMed Needs to Resolve
+What legal relationships does the agreement contain?
+How should exclusivity be linked to sales targets?
+How should delivery, risk and payment interact?
+Is the limitation-of-liability structure complete and enforceable?
+How can the parties exit the relationship?
+And after choosing Belgian law, where should disputes actually be resolved?
+
+C · LEGAL ANALYSIS
+Q1 · Is this a sales contract or a distribution agreement?
+The long-term distribution relationship needs to be distinguished from the individual sales of goods made within it.
+NovaMed and BelCare first establish an ongoing distribution relationship: BelCare receives distribution rights for the Belgian market and assumes continuing obligations relating to market development, minimum purchases and other aspects of the commercial relationship.
+Within that framework, individual orders will then give rise to separate sales of medical devices.
+This distinction matters because the distribution relationship and the individual sales transactions are not necessarily governed by exactly the same legal rules.
+Both China and Belgium are Contracting States to the United Nations Convention on Contracts for the International Sale of Goods (CISG).
+The CISG provides a uniform framework governing international sales of goods. Where individual sales between NovaMed and BelCare satisfy its conditions of application, issues such as delivery, conformity of the goods and remedies for breach may fall within the CISG. The parties may also exclude or modify its application in accordance with the Convention.
+But the CISG addresses the international sale of goods. It does not, simply by applying to individual sales, govern every aspect of the three-year distribution relationship, such as exclusive territory, sales targets, duration and exit arrangements.
+The distribution relationship itself therefore requires a further determination of the applicable domestic law.
+The EU Rome I Regulation determines the law applicable to contractual obligations. The parties may choose the governing law. Where no valid choice has been made, the Regulation provides rules for different categories of contracts, including a rule under which a distribution contract is, in principle, governed by the law of the distributor’s habitual residence.
+Primary Legal Sources
+United Nations Convention on Contracts for the International Sale of Goods (CISG) — Arts. 1 & 6
+UNCITRAL · CISG Official Text
+Regulation (EC) No 593/2008 (Rome I) — Arts. 3–4
+EUR-Lex · Rome I Regulation
+Application to the Case
+The agreement therefore needs to be analysed at two levels:
+Long-term Distribution Relationship → Exclusive territory · Minimum purchases · Market cooperation · Duration & termination
+Individual Sales of Goods → Orders · Delivery · Conformity · Risk · Payment · Remedies for breach
+Before moving into the individual clauses, NovaMed should also verify the identity of the contracting parties and whether the individuals signing on behalf of each company have the necessary authority.
+First identify which layer of the legal relationship is being analysed. Then identify the rules that govern it.
+
+Q2 · What does a three-year exclusive right combined with a minimum purchase of 500 units per year actually mean?
+From a contract-design perspective, exclusivity and minimum purchase obligations should operate together.
+If BelCare receives exclusive distribution rights for Belgium, NovaMed is restricting its own ability to establish alternative sales channels within the agreed territory.
+The minimum purchase requirement is therefore more than a commercial target. It also helps balance the commercial value of the exclusivity granted to BelCare.
+If the agreement merely states “three-year exclusivity” and “500 units per year”, without explaining what happens when the target is missed, NovaMed may not necessarily be able to treat the exclusivity as automatically terminated when BelCare underperforms.
+Once the commercial arrangement has been designed, the parties must also determine whether the distribution relationship falls within the relevant provisions of Book X of the Belgian Code of Economic Law.
+Belgian law establishes specific rules for certain sales concessions and distribution relationships. Contract design and the application of local mandatory rules therefore need to be assessed separately.
+Belgian Legal Framework
+Code de droit économique — Book X
+Commercial cooperation and certain distribution relationships
+Application to the Case
+NovaMed should create a complete contractual chain:
+Exclusive Territory → Minimum Purchase → Periodic Review → Consequences of Underperformance
+For example, if BelCare fails to reach the agreed purchase target, the agreement should specify whether there will be a cure period, whether the arrangement becomes non-exclusive for the following period, or whether the relationship may be terminated subject to the contract and applicable law.
+What matters about a target of “500 units” is not only the number itself. It is what happens when 500 units are not purchased.
+
+Q3 · Why is “payment within 30 days after delivery” not enough?
+Because delivery, risk and payment need to be understood as part of the same performance chain.
+Suppose NovaMed hands 100 devices to a carrier in China and 20 are damaged during transit.
+BelCare argues that the goods have not yet arrived in Belgium and therefore the outstanding balance is not payable.
+NovaMed argues that it has already completed delivery.
+At that point, the meaning of “delivery” is no longer simply a logistics question. It affects whether NovaMed has performed its delivery obligation, whether the risk of loss has passed, and how the corresponding payment obligation should be treated.
+For sales falling within the scope of the CISG, the Convention contains separate rules governing the seller’s delivery obligations and the passing of risk.
+Rather than relying on default rules only after goods have been damaged, the more useful approach is to state clearly in the contract which performance arrangement the parties have actually chosen.
+Primary Legal Sources
+CISG — Arts. 31–34 Delivery of the goods
+CISG — Arts. 66–70 Passing of risk
+UNCITRAL · CISG Official Text
+Application to the Case
+NovaMed should align the entire performance sequence:
+Order → Delivery → Passing of Risk → Acceptance → Invoicing → Payment
+If the parties use Incoterms®, the agreement should also specify the exact rule, named place and applicable version.
+The place of delivery is not merely logistics information. It also helps determine where risk begins to pass.
+
+Q4 · If the contract says “NovaMed shall not be liable for indirect losses”, is liability adequately controlled?
+No.
+A limitation of liability needs to be considered within the entire framework of breach, remedies and damages.
+When a breach occurs, the first question is what remedies the other party may have under the contract or applicable law and what losses may be recoverable.
+Only then should the analysis turn to whether the contract imposes an overall liability cap, excludes particular categories of loss, and treats certain specific liabilities separately.
+For sales governed by the CISG, the Convention already provides a basic framework concerning damages, foreseeability and mitigation.
+Where Belgian law also governs relevant contractual issues, however, contractual freedom itself is subject to certain limitations.
+Book VI of the Belgian Code of Economic Law contains rules on unfair terms in contracts between enterprises. A limitation-of-liability clause may therefore be subject to scrutiny if it creates a manifest imbalance between the parties’ rights and obligations or falls within categories specifically restricted by law.
+The effectiveness of a limitation-of-liability provision therefore cannot be assessed by reading a single exclusion clause in isolation. The agreement as a whole and the applicable Belgian rules must also be considered.
+Primary Legal Sources
+CISG — Arts. 74–77 Damages and mitigation
+UNCITRAL · CISG Official Text
+Belgian Code of Economic Law — Book VI B2B unfair contract terms
+FPS Economy · Unfair Terms Between Enterprises
+Application to the Case
+NovaMed should review the complete liability structure:
+Breach → Remedies → Damages → Liability Cap → Exclusions → Specific Exceptions
+Important risks such as product quality and intellectual-property infringement may also require separate treatment depending on the transaction and applicable law.
+A limitation of liability is not a single disclaimer. It is a complete mechanism for allocating contractual risk.
+
+Q5 · If the three-year relationship ends early, how do the parties exit?
+A termination clause determines not only when the parties can leave, but also who deals with everything left behind once the relationship ends.
+For a long-term distribution relationship, the agreement should distinguish between expiry at the end of the agreed term and early termination.
+It should also address material breach, cure periods and continuing matters after termination, including outstanding orders, remaining inventory, customer after-sales obligations, confidentiality and intellectual property.
+At the same time, Belgian law contains specific termination rules for certain exclusive sales concessions.
+For qualifying exclusive sales concessions of indefinite duration, Book X generally requires the terminating party to provide reasonable notice or corresponding compensation, subject to exceptions such as serious breach.
+The NovaMed agreement, however, has a fixed three-year term. The rules applicable to indefinite-duration agreements therefore cannot simply be applied to it without further analysis.
+But a fixed term does not mean that Book X can be ignored.
+For example, where a qualifying fixed-term sales concession continues after expiry or is renewed repeatedly, the law may treat the subsequent relationship differently. Article X.38 of Book X specifically addresses the renewal of fixed-term sales concessions.
+NovaMed therefore needs to consider not only how the three-year agreement ends, but also what happens at expiry and what legal consequences may follow if the parties continue their relationship.
+Belgian Legal Framework
+Code de droit économique — Book X, Arts. X.35–X.38
+Termination and renewal of certain sales concessions
+Belgian Code of Economic Law · Official Text (Justel)
+Application to the Case
+NovaMed should address two levels of exit planning:
+When can the relationship end? → Expiry · Material breach · Cure period · Early termination
+What happens afterwards? → Outstanding orders · Remaining inventory · Outstanding payments · After-sales obligations · Confidentiality · Intellectual property
+The agreement should also specify what happens after the three-year term:
+End the relationship → Renew the agreement → Continue performance
+Different choices may produce different legal consequences.
+A termination clause is not simply a right to “walk away”. It should explain how the relationship ends — and what happens if the parties continue after expiry.
+
+Q6 · If the parties choose Belgian law, does that mean any dispute must go to a Belgian court?
+Not necessarily.
+Governing law and dispute resolution are two different questions.
+A choice of Belgian law determines, first, which substantive legal rules the parties intend to govern their contractual rights and obligations.
+The Rome I Regulation allows parties to choose the law applicable to their contract and provides conflict-of-laws rules where no valid choice has been made.
+Choosing Belgian law, however, does not automatically mean choosing Belgian courts.
+Jurisdiction must be determined separately. For cases falling within the EU civil and commercial jurisdiction framework, the Brussels I bis Regulation provides the relevant jurisdictional rules and permits parties, subject to the applicable requirements, to agree on the courts of a Member State.
+The parties may also consider arbitration. In that case, further questions arise concerning the arbitral institution or rules, the seat of arbitration and the language of the proceedings.
+The questions “Which law applies?” and “Where will the dispute be resolved?” must therefore be addressed separately.
+Primary Legal Sources
+Regulation (EC) No 593/2008 (Rome I) — Arts. 3–4 Law applicable to contractual obligations
+EUR-Lex · Rome I Regulation
+Regulation (EU) No 1215/2012 (Brussels I bis) — Art. 25 Choice of court
+EUR-Lex · Brussels I bis Regulation
+Application to the Case
+NovaMed needs to determine separately:
+Governing Law → Which body of law determines the parties’ contractual rights and obligations?
+Dispute Resolution → Court or arbitration? If court proceedings are chosen, which country’s courts will hear the dispute? If arbitration is chosen, what mechanism will apply?
+Choosing the law determines which rules apply. Choosing the dispute-resolution mechanism determines where and how the dispute will be resolved.
+D · FINAL POSITION
+NovaMed does not need to make the agreement longer simply by adding more “standard clauses”.
+What it really needs is to ensure that the entire transaction — from signing and performance to exit — forms a coherent legal structure.
+Core Issue
+Legal Assessment
+NovaMed’s Approach
+Parties & Contract Structure
+Distribution relationship and individual sales must be identified separately
+Verify contracting parties, signing authority and applicable rules
+Exclusivity & Sales Volume
+Commercial rights should correspond to performance obligations
+Define the consequences of failing to meet purchase targets
+Delivery & Payment
+Delivery, risk and payment are interconnected
+Define the place of delivery and passing of risk
+Limitation of Liability
+A single exclusion clause does not cover the full liability structure
+Design damages, caps and exceptions as a complete system
+Termination & Exit
+Exit is governed by both the contract and applicable law
+Address both termination conditions and post-termination matters
+Law & Disputes
+Governing law is not the same as jurisdiction
+Determine governing law and dispute-resolution mechanism separately
+PRACTICAL REVIEW
+Before Signing
+→ Verify the contracting parties and signing authority → Distinguish the distribution relationship from individual sales → Define the exclusive territory and minimum purchase obligations
+During Performance
+→ Align orders, delivery, risk, acceptance and payment → Define remedies, damages and limitations of liability → Continue monitoring whether both parties are performing as agreed
+Before Termination or a Dispute
+→ Determine the termination conditions and post-termination matters → Confirm the governing law → Confirm court jurisdiction or arbitration arrangements
+What is the transaction → What are the parties exchanging → How will it be performed → How is risk allocated → How can the parties exit → How will disputes be resolved?
+TRANSACTION STRUCTURE · EXCLUSIVE DISTRIBUTION · PERFORMANCE & RISK · LIABILITY ALLOCATION · EXIT MECHANISM · CROSS-BORDER DISPUTES
+The legal content has been reviewed against the current CISG, EU Rome I and Brussels I bis frameworks, together with the relevant provisions of the Belgian Code of Economic Law, and is updated to September 2026. NovaMed Technologies, BelCare Distribution SRL and the specific facts of this case are fictional and are used solely for legal research and professional portfolio purposes. This material does not constitute legal advice on any specific matter.
+
+04 · EU MARKET ENTRY
+EU Market Access
+What legal issues must a Chinese smart medical device address before entering the Belgian market?
+EU MARKET · MEDICAL DEVICES · PRODUCT COMPLIANCE · BELGIAN MARKET ENTRY · AI · HEALTH DATA
+
+A · GENERAL APPROACH
+When a technology product enters the EU market, it is not enough to ask:
+“Do we need CE marking?”
+CE marking indicates that a product complies with the EU regulatory requirements applicable to that product. Not every product requires CE marking.
+Whether CE marking is required — and which procedure must be followed before the product can enter the market — depends first on which regulatory framework actually applies to the product.
+For a product combining a medical purpose with AI and data functionality, the market-access analysis can focus on four core questions:
+01 · What is the Product? — What is its intended purpose and legal classification?
+02 · How Can It Be Lawfully Placed on the Market? — Who bears responsibility, and what must be completed before market entry?
+03 · What Does AI Change? — Does the AI functionality create additional product-regulatory requirements?
+04 · Can the Data Be Used This Way? — How should health data be processed, and can the Chinese team access it?
+At the same time, one basic principle should always be checked:
+A regulation that looks relevant is not necessarily applicable.
+Identify the product and its market-access pathway first. Then determine which additional legal issues arise from its technological features.
+
+B · CASE
+NovaMed Technologies · Smart Medical Device Entering the Belgian Market
+NovaMed Technologies is a Chinese medical-technology company planning to introduce a smart home-monitoring device, NovaCare Home, to the Belgian market.
+The device is designed for use by patients with chronic conditions at home. It collects physiological indicators and synchronises them with a companion application.
+An AI function analyses the monitoring data and, where abnormal changes are identified, generates a risk alert recommending that the user contact a healthcare professional for further assessment.
+The current arrangement is:
+Manufacturer — NovaMed Technologies, China Target Market — Belgium Intended Use — Monitoring physiological indicators and providing alerts for abnormal risk patterns AI Function — Analysing monitoring data and generating risk alerts Data Function — Processing health-related user data through cloud-based services European Structure — Authorised representative, importer and distribution structure not yet determined Chinese Team — Wishes to access certain European user data for product maintenance and algorithm improvement
+Questions NovaMed Needs to Resolve
+What type of product is NovaCare Home under EU law?
+What requirements must still be satisfied before it can be placed on the market?
+Who bears the relevant compliance responsibilities in Europe?
+Does the AI functionality change the regulatory pathway?
+And can the Chinese team access data relating to European patients?
+
+C · LEGAL ANALYSIS
+Q1 · What type of product is NovaCare Home under EU law?
+Market access begins with the product’s legal characterisation and classification.
+Because NovaCare Home is intended to monitor physiological indicators of patients with chronic conditions and provide alerts concerning abnormal risks, the first step is to determine whether it qualifies as a medical device under the Medical Device Regulation (MDR).
+One of the central elements in that assessment is the product’s intended purpose.
+The fact that the product is already marketed as a medical product in China does not, by itself, determine its legal classification in the EU.
+If NovaCare Home qualifies as a medical device, its classification must then be determined — Class I, IIa, IIb or III.
+Different classifications correspond to different levels of regulatory control and directly affect the conformity-assessment pathway that follows.
+Primary Legal Source
+MDR
+Art. 2 — Medical device
+Art. 51 & Annex VIII — Classification
+EUR-Lex · MDR Official Text
+Application to the Case
+NovaMed must first determine the medical purpose it intends to claim for NovaCare Home on the European market and then classify the device based on its functions and risks.
+Only once the product’s legal identity and classification are established can the company determine which market-access procedure it must follow.
+Product classification is not simply a label. It is the starting point of the market-access pathway.
+
+Q2 · What conditions must NovaCare Home satisfy before it can be sold in Belgium?
+Three levels need to be addressed together:
+product compliance, responsible economic operators, and market registration.
+Level 1 · Does the Product Itself Comply?
+Depending on NovaCare Home’s final classification, NovaMed must complete the applicable risk management, clinical evaluation, technical documentation and conformity assessment requirements.
+Certain device classes will also require third-party assessment by a Notified Body.
+Once the applicable requirements have been satisfied, the manufacturer may draw up the EU Declaration of Conformity and affix the CE marking in accordance with the applicable rules.
+Level 2 · Who Bears Responsibility in the European Market?
+NovaMed remains the manufacturer.
+Because the company is established in China, it must appoint an authorised representative within the EU in accordance with the applicable rules and determine which parties will act as importer and distributor.
+These roles carry distinct statutory obligations.
+They cannot simply be reassigned at will through a distribution agreement.
+Level 3 · Have the Product and Relevant Economic Operators Been Properly Registered?
+EUDAMED — the European Database on Medical Devices — supports EU-level registration and regulatory oversight of medical devices and relevant economic operators.
+Within this system, UDI (Unique Device Identification) is used to identify and trace medical devices.
+From 28 May 2026, the first four EUDAMED modules became mandatory, including Actor Registration and UDI/Device Registration.
+NovaMed must therefore complete the applicable registration of economic operators and devices under the rules currently in force.
+Once the product enters Belgium, NovaMed must also check the requirements of the competent Belgian authority, FAMHP. For example, medical-device distributors in Belgium are currently subject to the relevant local registration requirements.
+Primary Legal Source
+MDR
+Art. 5 — Placing on the market
+Arts. 10–14 — Economic operators
+Art. 52 — Conformity assessment
+Arts. 27, 29 & 31 — UDI and registration
+EUR-Lex · MDR Official Text
+Application to the Case
+NovaMed’s market-access pathway can therefore be reduced to three questions:
+Is the product compliant? → Are the responsible European economic operators in place? → Have the required EU and Belgian registrations been completed?
+Only once all three levels have been addressed can NovaMed determine whether the product is actually ready to be placed on the Belgian market.
+Whether a product can be sold depends not only on the product itself, but also on who is responsible for it and whether the market-access procedures have been completed.
+
+Q3 · Does NovaCare Home’s AI risk-alert function change its regulatory pathway?
+Potentially.
+The key question is what the AI actually does.
+NovaCare Home’s AI analyses patient data and generates alerts concerning abnormal risk patterns. It is therefore necessary to determine whether that function is connected with the product’s medical or safety function.
+The AI Act establishes high-risk classification rules for certain AI systems connected with regulated products.
+Where an AI system is a safety component of a relevant product, or is itself such a product, and that product is required under the relevant EU product legislation to undergo third-party conformity assessment, the AI system may fall within the corresponding high-risk AI framework.
+Primary Legal Source
+AI Act
+Art. 6(1) — High-risk AI systems linked to regulated products
+Annex I — Relevant product legislation
+EUR-Lex · AI Act Official Text
+Application to the Case
+The important question for NovaMed is not simply:
+“Does the product use AI?”
+Instead, it needs to determine:
+What role does the AI-generated risk alert perform within the product’s medical function, and what conformity-assessment procedure ultimately applies to NovaCare Home?
+Only then can the specific classification, obligations and applicable timeline under the AI Act be determined.
+Whether AI changes the regulatory pathway depends on what the AI actually does within the product.
+
+Q4 · Can NovaMed’s team in China access European patient data?
+The legal basis for processing health data and the conditions governing international data transfers must be assessed separately.
+NovaCare Home collects physiological indicators from patients. Such information may constitute health data, which receives specific protection under the GDPR.
+NovaMed must therefore first establish why the data is being processed, who determines its purposes and means, which entities can access it, and what legal basis applies.
+For health data, the company must also satisfy an applicable condition under Article 9 GDPR.
+If NovaMed’s team in China can remotely access personal data relating to European users, the rules governing transfers of personal data to third countries under the GDPR must also be considered.
+Even if the data itself is primarily stored in Europe, remote access by a team outside the EU may still require analysis under the relevant international-transfer framework, depending on the specific access and transfer arrangements.
+Primary Legal Source
+GDPR
+Arts. 5–6 — Principles and lawful basis
+Art. 9 — Health data
+Chapter V — Transfers to third countries
+EUR-Lex · GDPR Official Text
+Application to the Case
+Two purposes should be distinguished:
+What data is necessary for product operation and after-sales maintenance?
+What data is necessary for algorithm improvement?
+The two purposes may not necessarily rely on the same legal basis or the same data-governance arrangements.
+NovaMed must also consider whether the Chinese team genuinely needs access to identifiable personal data, and what legal and technical arrangements should govern any cross-border access.
+Using data for a product does not mean that the data can move across borders without restriction.
+
+SCOPE CHECK
+Checking What Does — and Does Not — Apply
+A market-access analysis should not only identify relevant rules.
+It should also actively exclude rules that appear relevant but do not actually apply.
+The Cyber Resilience Act (CRA), for example, principally addresses products with digital elements. But that does not mean that every connected product automatically falls within the CRA.
+The Regulation contains specific limitations on its scope for products already governed by certain sector-specific EU product legislation.
+NovaCare Home provides a useful example.
+If it is ultimately classified as a medical device subject to the MDR, the CRA expressly excludes such MDR medical devices from its scope.
+It would therefore be incorrect to impose the CRA as a separate layer of product-compliance requirements merely because NovaCare Home is connected, runs software or can receive remote updates.
+EUR-Lex · Cyber Resilience Act
+Good compliance analysis is not only about finding the rules that apply. It is also about accurately excluding the rules that do not.
+
+D · FINAL POSITION
+NovaCare Home’s entry into the Belgian market requires NovaMed to resolve four core questions:
+Core Issue
+Legal Assessment
+What NovaMed Needs to Confirm
+What is the product?
+Intended purpose and classification determine the regulatory pathway
+MDR status and specific classification
+How can it be lawfully placed on the market?
+Product compliance, responsible economic operators and registration together form the market-access framework
+Conformity assessment, CE marking, economic operators, EUDAMED and Belgian requirements
+What does AI change?
+The specific AI function may create additional regulatory requirements
+AI Act classification, obligations and application timeline
+Can the data be used this way?
+Medical-device compliance does not replace data-protection analysis
+Processing of health data and China–EU data transfers
+PRACTICAL REVIEW
+Product & Market Access
+→ Product characterisation and classification → Conformity assessment and CE marking → European economic operators → EUDAMED and Belgian requirements
+Technology & Data
+→ Determine whether the AI functionality changes the regulatory pathway → Determine how health data may be processed and accessed across borders → Exclude other regulatory regimes that do not apply
+What is the product → How can it be lawfully placed on the market → What does the new technology change → Can the data be used this way?
+PRODUCT CLASSIFICATION · MARKET ACCESS · BELGIAN MARKET ENTRY · AI ACT · GDPR
+The legal content has been reviewed against the current EU medical-device, artificial-intelligence, data-protection and related product-regulatory frameworks, together with the relevant Belgian medical-device market requirements, and is updated to September 2026. NovaMed Technologies, NovaCare Home and the specific facts of this case are fictional and are used solely for legal research and professional portfolio purposes. This material does not constitute legal advice regarding any specific product or market-access matter.
+04 · LEGAL SOURCES
+Primary Sources & Official Guidance
+This library gives priority to primary legal texts, official databases and materials published by competent authorities, with the applicable rules at EU, Belgian federal and regional levels further identified according to the specific issue concerned.
+EUROPEAN UNION
+EUR-Lex EU legislation, the Official Journal and related legal texts
+EUR-Lex · Access to EU Law
+CURIA Judgments, opinions and case materials from the Court of Justice of the European Union
+CURIA · Court of Justice of the European Union
+European Commission Information on the implementation of EU legislation, policies and regulatory developments
+European Commission
+
+BELGIUM
+Belgian Official Gazette · Moniteur belge / Belgisch Staatsblad Belgian legislation and official legal publications
+Justel Official database for Belgian legislation and legal texts
+Belgian Official Gazette & Justel
+FPS Economy Intellectual property, business and economic regulation
+FPS Economy
+FPS Employment Working conditions, working time and cross-border posting of workers
+FPS Employment
+
+WALLONIA
+Service public de Wallonie · SPW Regional employment matters, work permits and related administrative procedures
+Wallonia · Employment & Professional Training
+
+SPECIALIST AUTHORITIES
+Data Protection
+European Data Protection Board · Belgian Data Protection Authority
+Intellectual Property
+FPS Economy · European Union Intellectual Property Office · EUIPO
+Medical Devices
+European Commission · Medical Devices · FAMHP
+Cybersecurity
+ENISA · Centre for Cybersecurity Belgium
+Competition
+European Commission · Competition Policy · Belgian Competition Authority
+
+SOURCE PRINCIPLE
+PRIMARY LAW → OFFICIAL GUIDANCE → SECONDARY RESEARCH
+
+CLOSING NOTE
+Law is a professional foundation — and a way of understanding business.
+When a company enters a new market, legal questions rarely exist in isolation. They are often intertwined with people, contracts, technology, products and day-to-day operations.
+For me, the value of a legal background lies in being able to understand the boundaries of these issues more precisely, identify what requires further verification, and connect the right professional support when needed.
+Understand the Context · Recognise the Boundary · Know When to Seek Expertise
+
+This library is prepared for legal research and professional portfolio purposes and does not constitute legal advice.
+
+窗体顶端
+窗体底端
+

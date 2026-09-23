@@ -1,0 +1,395 @@
+05 · CASE SIMULATION
+“Mr. L, I’ll take this company.”
+From First Contact to European Growth
+How a Chinese technology company moves from its first conversation with CBTC to actually building a business in Europe
+The following is a simulated case. The company, characters and specific project details are fictional and designed around CBTC’s business model and typical cross-border business needs. The head of the park is referred to throughout as “Mr. L”.
+
+EP.01 · DISCOVER
+“We want to go to Europe. We just haven’t decided where yet.”
+MONDAY · 09:12
+I had barely settled in when Mr. L sent me a company profile.
+Mr. L
+A Chinese medical technology company is coming tomorrow.
+They’re looking at setting up in Europe, and they also want to explore possible R&D collaboration here.
+ME
+Got it. I’ll take a look at their background first.
+I quietly opened my laptop.
+First challenge: give them a reason to stay.
+09:30 · DO THE HOMEWORK FIRST
+The company is called NovaMed Technologies.
+A Chinese medical technology company with established products and an R&D team, now preparing to expand into Europe.
+My brain immediately starts building a checklist:
+What do they sell? Who are their customers? Why are they going abroad now? How far have they already got in Europe?
+Then I go to the colleague responsible for investment attraction.
+ME
+I had a look at their profile. They seem quite R&D-driven. Tomorrow, should we give a little more emphasis to the research and industry ecosystem?
+COLLEAGUE
+Yes. But let’s first hear what matters most to them.
+ME
+Makes sense. I’ll put together a quick background note and question list first.
+In the end, I keep it to one page.
+NOVAMED · QUICK BRIEF
+Who are they? A Chinese medical technology company with an established business and R&D team.
+What might they want? European market access + a European business base + potential R&D collaboration.
+What don’t we know yet? Why expand overseas? Why Belgium? What matters most in their first year?
+The rest?
+Ask them in person.
+Understand the need first. Then explain what we can do.
+
+VISIT DAY · 10:40
+The tour finishes and we sit down to talk.
+Sure enough, it doesn’t take long before they ask:
+COMPANY DIRECTOR
+We’ve also looked at the Netherlands and Germany. What would you say is Belgium’s biggest advantage?
+This is not the moment to pull out ten pages of policy.
+Policy information should be useful, not just plentiful.
+Based on the company’s situation, we briefly introduce Belgium and Wallonia’s location, life-sciences ecosystem and research environment, together with relevant directions in investment, R&D and innovation support.
+Then we bring the conversation back to the company itself.
+ME
+When choosing your European base, what matters most to you at this stage — the market, R&D, or something else?
+COMPANY DIRECTOR
+Both the market and R&D matter. Policy support is important too. To be honest, we sometimes see a lot of policies but still have no idea whether any of them actually apply to us.
+Mental note:
+Good. Remember that sentence.
+Because that is exactly the kind of problem enterprise services should help solve later.
+So I keep asking.
+ME
+If we were sitting here again a year from now, what would need to have happened for you to consider your European expansion a success?
+COMPANY DIRECTOR
+Ideally, our products would be in the market and we’d have a few stable customers. If we could also get an R&D collaboration started, even better.
+I write down:
+Business + R&D
+One more question.
+ME
+Would the European company mainly be a sales office, or do you expect it eventually to sign contracts, recruit people and carry out R&D as well?
+COMPANY DIRECTOR
+Potentially all of those. Sales first, probably. R&D would come gradually.
+Another note:
+Phase 1 ≠ Phase 2
+Ten minutes later, the picture is starting to become much clearer.
+What they actually need is not simply “a company”.
+It is five tracks starting to move at the same time:
+Corporate setup · People · EU market entry · Customers & industry connections · Future R&D collaboration
+My to-do list has gone from six items to seventeen.
+Right.
+Now this is starting to look like a real project.
+
+EP.02 · LAND
+“Alright. Let’s start with Belgium.”
+THREE WEEKS LATER · 09:08
+A message arrives from the company director:
+We’ve more or less decided internally. We’d like to set up the company in Belgium first. Three people will come over initially, and we’d like to move fairly quickly.
+I look at the message.
+Good.
+The lead has officially become a project.
+
+10:20 · TIME TO CALL IN THE TEAM
+First stop: the colleague handling company landing and general enterprise services.
+ME → ENTERPRISE SERVICES
+They’re hoping to get the European entity moving within about two months. Could you help me check what we normally need for incorporation, registered address, banking and the basic administrative process? And which questions do we need them to answer now?
+Together, we map it out:
+Shareholder → Director → Address → Activities → Documents → Timeline
+Next: finance.
+ME → FINANCE
+They’ll eventually need support with day-to-day finance, VAT and payroll for the European entity. Let’s identify which issues should involve an external accountant early on.
+Then HR.
+ME → HR
+They’re planning to bring three people over from China first, with possible local recruitment later. I’ll collect the employee details and then we can go through them together.
+Finally, office space.
+ME → PARK OPERATIONS
+Three people initially, mainly office-based. They may need R&D facilities later, but let’s not talk about laboratories yet — I still haven’t established what kind of experiments they actually want to do.
+OPERATIONS COLLEAGUE
+So how many people are we talking about?
+ME
+Three today.
+The founder says “maybe more than ten” in a year.
+OPERATIONS COLLEAGUE
+...
+ME
+I know.
+Corporate planning.
+
+14:30 · A DECEPTIVELY SIMPLE QUESTION
+The company’s HR team asks:
+Once the Belgian company is registered, can our three employees just come over and start working?
+Right.
+There it is. The classic question.
+I don’t answer immediately.
+Instead, I ask:
+How long is each person planning to stay? How will their employment relationships be structured? Which entity will pay their salaries? What exactly will each person be doing in Belgium? Is this a temporary assignment or a longer-term position?
+A brief silence follows.
+We haven’t really worked all of that out yet.
+ME
+That’s fine. Let’s map out the three cases separately first, then isolate the points that need professional confirmation.
+I open a new file:
+PEOPLE TRACK
+Internal coordination HR + Enterprise Services + Me
+Professional support Connect the appropriate employment, immigration, tax or other specialists depending on the specific issue
+My role Understand → Structure → Connect → Follow
+The company speaks the language of business.
+Professional advisers speak the language of law, compliance and specialist practice.
+Part of my job is to make sure they don’t end up:
+having two different conversations.
+THEN THE COMPANY ASKS:
+Can you also help us review contracts?
+My legal brain wakes up.
+Fortunately, so does my professional judgement.
+ME
+I can first help organise the contractual background, transaction structure and the issues that may deserve attention. Where a specific interpretation of local law is required, we can then bring in the appropriate professional team to confirm it.
+And just like that, another track appears:
+LEGAL & COMPLIANCE TRACK
+Contracts · Employment · IP · Data · Product · Corporate Issues
+My role comes first:
+Spot → Research → Structure → Refer → Follow
+Not:
+“Sent it to the lawyers. Bye.”
+The legal and compliance track is now part of the project.
+It doesn’t need to take centre stage.
+But it stays in the picture.
+
+EP.03 · CONNECT
+“The company setup is moving. Now where do the customers come from?”
+MONTH 2 · MONDAY · 10:14
+The office has been confirmed.
+The company setup is progressing.
+The people-related issues are under professional review.
+Then another message arrives:
+Can we start developing the European market as well?
+Excellent.
+New side quest unlocked.
+
+FIRST, BREAK DOWN “FIND CUSTOMERS”
+I go to the colleague responsible for business development and market connections.
+ME
+They’re ready to start exploring the European market. But “find customers” is still too broad. I think we should break down who they actually want to reach first.
+Together with the company, we work through the possibilities:
+Hospitals?
+Laboratories?
+Distributors?
+Healthcare groups?
+Research institutions?
+Equipment manufacturers?
+Slowly, a map begins to take shape.
+PARTNER MAP
+Potential Customers
+Distributors
+Industry Organisations
+Technology Partners
+Professional Networks
+Now we can start looking for the right people.
+THURSDAY · 14:18
+The company director asks:
+We’d also like to meet more local organisations and companies. Could you introduce us?
+ME
+Of course. What would you most like those connections to help with right now — market development, technology collaboration, or access to the local industry ecosystem?
+He laughs.
+Do we really need to be that specific?
+I laugh too.
+A little.
+Mostly because it would be nice if something happened after everyone added each other on WeChat.
+He nods.
+Fair point.
+Now the park’s wider network can start coming into the project — one connection at a time.
+Policy & investment information → Regional government and relevant institutions
+Industry & market → Industry organisations · Clusters · Business networks
+Commercial cooperation → Chambers and associations · Customers · Distributors · Potential partners
+Legal, policy & compliance → The China Chamber of Commerce to the EU and cooperating professional teams, with Chinese and European lawyers, accountants and other specialists brought in as required
+Research collaboration → Universities · Research centres · Laboratories · Experts
+The point is not to put every contact we know into one giant group chat.
+First, ask four questions:
+WHO ARE THEY?
+WHAT DO THEY DO?
+WHAT DO THEY NEED?
+WHY THIS CONNECTION?
+There may be plenty of resources.
+The real value is bringing the right people in at the right moment.
+
+EP.04 · INNOVATE
+“Mr. L, they want to work with a university.”
+MONTH 3 · 11:26
+ME
+Mr. L, they’re getting much more serious about R&D collaboration now.
+MR. L
+Then connect them with a university.
+ME
+Sure. The only problem is that their current requirement is still basically: “We’d like to meet a professor.”
+Mr. L pauses.
+Then ask them what they actually need.
+Got it.
+So I go back to “bothering” the company with more questions.
+ME
+What exactly would you like the professor to help you solve?
+Three seconds of silence.
+Those three seconds are extremely valuable.
+Together, we build:
+TECHNOLOGY COOPERATION BRIEF
+Problem What exactly are we trying to solve?
+Existing Technology What do they already have?
+Missing Capability What capability is missing?
+Research Need What research support is required?
+Expected Cooperation Validation / Joint R&D / Experimental collaboration / Technology licensing?
+Budget & Timeline What resources and timeframe are available?
+Once the need is clear, we can start connecting externally:
+UCLouvain
+Research Centres
+Laboratories
+Professors / Technical Teams
+And where relevant, industry organisations can help identify potential technology partners as well.
+As the cooperation becomes more substantive, questions around contracts, confidentiality, intellectual property, data and the broader collaboration framework can also be referred to the appropriate professional teams.
+
+FIRST R&D MEETING
+The research team asks:
+What exactly would you like us to validate?
+The company begins explaining.
+After a while, I realise that the two sides may not mean quite the same thing by validation.
+So I check:
+Just to make sure we're discussing the same scope — are we talking about the current product performance, or a broader experimental validation?
+Both sides pause.
+Clarify.
+Then continue.
+These are the moments when I think:
+Ah. Today I have officially justified my existence.
+The meeting ends.
+I write in my notebook:
+ACTION POINTS
+NovaMed Provide additional technical materials
+Research Team Confirm capabilities and initial feasibility
+Professional Team Confirm any necessary IP, data and collaboration issues before the project moves further
+CBTC Organise action points · Continue coordination · Prepare the next discussion
+The meeting is over.
+The to-do list has only just been born.
+
+EP.05 · GROW
+“Moving into the park doesn’t mean our work is finished.”
+MONTH 6
+NovaMed is no longer the company that first walked through the door six months ago.
+Now:
+✓ The European entity is operating ✓ They have their own office ✓ The Chinese team is gradually arriving ✓ Local recruitment has started ✓ The first customer and partnership discussions are underway ✓ R&D collaboration is continuing to move forward
+You might think things should be getting easier by now.
+In reality—
+once a company actually starts operating, the questions multiply.
+
+MONDAY · PEOPLE
+COMPANY DIRECTOR
+We’re planning to hire a Belgium Business Development Manager. Do you have recruitment channels here?
+Alright.
+HR track activated.
+Together with colleagues responsible for recruitment and enterprise services, I confirm:
+Role requirements · Salary information · Recruitment channels · Local talent resources · Whether an external recruiter is needed
+Then, depending on the need, we connect:
+University talent networks / Local recruitment channels / Specialist recruiters / Industry networks
+
+TUESDAY · POLICY
+COMPANY DIRECTOR
+We’re planning to increase our R&D investment. Are there any local subsidies?
+I’m not going to reply:
+“Yes.”
+Nor am I going to send them eighteen links.
+First, I go to the colleagues working on policy and enterprise services.
+ME
+They’ve now entered the actual R&D stage. Let’s screen the relevant R&D, innovation and investment support again and identify which options are worth exploring further.
+So the process becomes:
+Project → Eligibility → Policy matching → Professional confirmation → Follow-up support
+Six months ago, the company was asking:
+“People say Europe has lots of subsidies?”
+Now the question has become:
+“This programme may be relevant to our project. What would we need to prepare, and who should confirm it further?”
+That is when policy actually starts becoming part of business operations.
+
+WEDNESDAY · FINANCE
+COMPANY
+We may need to purchase equipment later, so cash flow could become tight. Are there financing resources you can connect us with?
+Another track opens.
+FINANCE TRACK
+First, establish:
+Purpose of financing
+Amount
+Company stage
+Existing financing
+Future plans
+Then decide what kind of resource makes sense:
+→ Bank? → Investment fund? → Strategic investor? → Public support instrument? → Another financing network?
+Because financing support is not:
+“Here’s an investor’s WeChat. Good luck.”
+It still comes down to matching.
+
+THURSDAY · EVENTS
+I assume we’ve probably had enough new questions for one week.
+My WeChat lights up again.
+We’d like to hold a European customer event at the park. Is that possible?
+I look at my to-do list.
+Sure. Another track it is.
+The park team assembles once again.
+The events colleague confirms:
+Time · Venue · Programme
+Market and investment colleagues help with:
+Guests · Companies · Partner organisations
+Operations handles:
+Venue · Equipment · On-site arrangements
+Photography, interpretation and reception support join in as needed.
+I stay on the company side:
+Has the guest list been updated? Do we need a bilingual company introduction? Who is presenting the technical session? Have all partner organisations confirmed? And the PowerPoint—
+is this actually the final version this time?
+At this point, I have trust issues.
+
+EVENT DAY · 14:25
+The company director walks over.
+Sorry, we’ve just added two more guests. Is that okay?
+I look at the guest list that has already been printed.
+Smile.
+ME
+Of course. I’ll check with the reception team.
+Then I turn around.
+No event plan has ever survived the founder’s WeChat messages.
+
+EP.06 · ONE YEAR LATER
+Afternoon.
+Mr. L walks past and casually asks:
+How’s NovaMed doing now?
+This time, I don’t need to reopen twenty email threads.
+ME
+The company is operating steadily now, and the local team is expanding.
+There are several market partnerships in progress, and the R&D side has moved into discussions around concrete cooperation.
+Right now, we’re mainly following the market partnerships and the R&D project.
+Mr. L nods.
+Good.
+He walks a couple of steps.
+Then turns around.
+MR. L
+By the way, there’s another Chinese company coming tomorrow afternoon. New energy.
+I look up.
+...Are they also “just coming to have a look at Europe”?
+Mr. L smiles.
+More or less.
+ME
+Alright. Send me the materials.
+
+I open a new file:
+NEW COMPANY · QUICK BRIEF
+Next to it is NovaMed’s very first note from a year ago:
+Interested in Europe. No clear plan yet.
+Since then, it has moved through:
+DISCOVER
+Market · Positioning · Policy · Entry decision
+↓
+LAND
+Company · People · Office · Operations · Professional support
+↓
+CONNECT
+Government · Chambers & associations · Professional institutions · Market · Industry resources
+↓
+INNOVATE
+Universities · Research · Technology · Industry–academia collaboration
+↓
+GROW
+Customers · Talent · Policy · Finance · Events · Long-term operations
+From:
+“We’d like to take a look at Europe.”
+To:
+“What should we do next to keep growing?”
+My phone lights up.
+The new energy company’s profile has arrived.
+I open the file.
+NEXT CASE LOADING…
+Different company. Different questions. Same job: understand what it needs, bring in the right people, and keep things moving.
+
