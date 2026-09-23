@@ -11,15 +11,15 @@
 </head>
 <body>
   <header class="site-header" id="top">
-    <a class="brand" href="#about"><span class="zh">郭姝玥</span><span class="en">Shuyue Guo</span></a>
+    <a class="brand" href="./"><span class="zh">郭姝玥</span><span class="en">Shuyue Guo</span></a>
     <button class="menu-toggle" aria-label="打开导航" aria-expanded="false">☰</button>
     <nav class="main-nav" aria-label="主导航">
-      <a href="#about" data-zh="关于我" data-en="ABOUT">关于我</a>
-      <a href="#background" data-zh="个人背景" data-en="BACKGROUND">个人背景</a>
-      <a href="#value" data-zh="我的价值" data-en="VALUE">我的价值</a>
-      <a href="#insights" data-zh="业务洞察" data-en="INSIGHTS">业务洞察</a>
-      <a href="#projects" data-zh="项目作品" data-en="PROJECTS">项目作品</a>
-      <a href="#resources" data-zh="知识库" data-en="RESOURCES">知识库</a>
+      <a href="./" data-page-link="about" data-zh="关于我" data-en="ABOUT">关于我</a>
+      <a href="?page=background" data-page-link="background" data-zh="个人背景" data-en="BACKGROUND">个人背景</a>
+      <a href="?page=value" data-page-link="value" data-zh="我的价值" data-en="VALUE">我的价值</a>
+      <a href="?page=insights" data-page-link="insights" data-zh="业务洞察" data-en="INSIGHTS">业务洞察</a>
+      <a href="?page=projects" data-page-link="projects" data-zh="项目作品" data-en="PROJECTS">项目作品</a>
+      <a href="?page=resources" data-page-link="resources" data-zh="知识库" data-en="RESOURCES">知识库</a>
     </nav>
     <div class="header-actions">
       <button class="lang-toggle" aria-label="切换语言"><span class="lang-zh">中</span><i></i><span class="lang-en">EN</span></button>
@@ -28,7 +28,7 @@
   </header>
 
   <main>
-    <section class="hero" id="about">
+    <section class="hero" id="about" data-page="about">
       <img src="assets/hero.jpg" alt="郭姝玥旅行中的肖像照" class="hero-image">
       <div class="hero-shade"></div>
       <div class="hero-content reveal">
@@ -37,7 +37,7 @@
         <p class="hero-intro" data-zh="中国法学本科、格拉斯哥大学国际商法硕士，目前生活在比利时。我希望在中国与欧洲之间的真实项目中，将法律、研究与跨文化经验连接起来。" data-en="With an LLB from China and an LLM in International Commercial Law from Glasgow, I am now based in Belgium—bringing together law, research and cross-cultural experience in real China–Europe projects.">中国法学本科、格拉斯哥大学国际商法硕士，目前生活在比利时。我希望在中国与欧洲之间的真实项目中，将法律、研究与跨文化经验连接起来。</p>
         <div class="tag-row"><span>⚖ <b data-zh="法律背景" data-en="Legal Foundation">法律背景</b></span><span>◎ <b data-zh="中国 · 英国 · 比利时" data-en="China · UK · Belgium">中国 · 英国 · 比利时</b></span><span>↔ <b data-zh="跨境协作" data-en="Cross-border Mindset">跨境协作</b></span><span>♫ <b data-zh="音乐与文化" data-en="Arts & Culture">音乐与文化</b></span></div>
         <div class="hero-buttons">
-          <a class="button primary" href="#background"><span data-zh="了解更多" data-en="Explore My Work">了解更多</span> <b>↘</b></a>
+          <a class="button primary" href="?page=background"><span data-zh="了解更多" data-en="Explore My Work">了解更多</span> <b>↘</b></a>
           <a class="button glass" href="assets/Shuyue-Guo-Resume.pdf" download><span data-zh="简历下载" data-en="Download Résumé">简历下载</span> ↓</a>
         </div>
       </div>
@@ -45,21 +45,27 @@
       <a class="scroll-cue" href="#about-more" aria-label="继续阅读">SCROLL <span>↓</span></a>
     </section>
 
-    <section class="about-more section" id="about-more">
+    <section class="about-more section" id="about-more" data-page="about">
       <div class="section-index">01 / ABOUT</div>
       <div class="split-intro reveal">
         <h2 data-zh="不止于法律。" data-en="More than a legal background.">不止于法律。</h2>
-        <div><p data-zh="法律塑造了我理解问题的方式，但真正吸引我的，是看见它如何与企业、项目、人和合作发生联系。" data-en="Law shapes how I understand problems. What truly interests me is seeing how it connects with companies, projects, people and collaboration.">法律塑造了我理解问题的方式，但真正吸引我的，是看见它如何与企业、项目、人和合作发生联系。</p><p class="signature">Understand · Structure · Connect · Verify</p></div>
+        <div class="about-statement">
+          <p data-zh="法律塑造了我理解问题的方式，但真正吸引我的，并不是孤立地研究一条规则，而是看见它如何进入真实的商业环境，又如何与企业、人与具体项目发生联系。" data-en="Law has shaped the way I understand problems, but what truly interests me is not studying a rule in isolation. It is seeing how that rule enters real business settings and connects with companies, people and specific projects.">法律塑造了我理解问题的方式，但真正吸引我的，并不是孤立地研究一条规则，而是看见它如何进入真实的商业环境，又如何与企业、人与具体项目发生联系。</p>
+          <p data-zh="我一直很喜欢处在不同领域的交汇处：既需要理解专业信息，也需要听懂不同的人真正关心什么；既可以安静地研究和梳理问题，也会享受沟通、合作，以及一个原本模糊的想法逐渐变得清晰、具体的过程。" data-en="I have always enjoyed being at the intersection of different fields: understanding professional information while also listening to what different people really care about; researching and organising issues quietly, while also enjoying communication, collaboration and the process of seeing an initially vague idea become clearer and more concrete.">我一直很喜欢处在不同领域的交汇处：既需要理解专业信息，也需要听懂不同的人真正关心什么；既可以安静地研究和梳理问题，也会享受沟通、合作，以及一个原本模糊的想法逐渐变得清晰、具体的过程。</p>
+          <p data-zh="从中国到英国，再到现在生活在比利时，不同的学习、工作和生活环境也让我越来越确定，自己希望发展的并不是一条非常单一的职业路径。我更期待以法律作为专业基础，同时保持对商业、人与不同文化的好奇，在跨境企业服务和实际项目中不断学习，也真正参与其中。" data-en="From China to the UK, and now living in Belgium, different learning, working and living environments have made me increasingly certain that I do not want to pursue a narrowly defined career path. I look forward to building on law as my professional foundation, while remaining curious about business, people and different cultures, continuing to learn through cross-border enterprise services and practical projects, and taking an active part in them.">从中国到英国，再到现在生活在比利时，不同的学习、工作和生活环境也让我越来越确定，自己希望发展的并不是一条非常单一的职业路径。我更期待以法律作为专业基础，同时保持对商业、人与不同文化的好奇，在跨境企业服务和实际项目中不断学习，也真正参与其中。</p>
+        </div>
       </div>
+      <h3 class="work-title" data-zh="我的工作方式" data-en="How I Work">我的工作方式</h3>
       <div class="work-grid">
-        <article><b>01</b><h3 data-zh="好奇与求知" data-en="Curious">好奇与求知</h3><p data-zh="先理解，再行动。" data-en="Understand before acting.">先理解，再行动。</p></article>
-        <article><b>02</b><h3 data-zh="结构化思考" data-en="Structured">结构化思考</h3><p data-zh="让复杂的问题变得清晰。" data-en="Make complexity manageable.">让复杂的问题变得清晰。</p></article>
-        <article><b>03</b><h3 data-zh="关注人与合作" data-en="People-oriented">关注人与合作</h3><p data-zh="连接人与不同的视角。" data-en="Connect people and perspectives.">连接人与不同的视角。</p></article>
-        <article><b>04</b><h3 data-zh="认真可靠" data-en="Reliable">认真可靠</h3><p data-zh="先核实，不想当然。" data-en="Verify, don't assume.">先核实，不想当然。</p></article>
+        <article><b>01</b><h3 data-zh="好奇与求知" data-en="Curious">好奇与求知</h3><p data-zh="先理解，再行动。" data-en="Understand before acting.">先理解，再行动。</p><small data-zh="我习惯先理解一件事情为什么这样运作，再思考自己应该如何参与。" data-en="I like understanding how things work before deciding how to approach them.">我习惯先理解一件事情为什么这样运作，再思考自己应该如何参与。</small></article>
+        <article><b>02</b><h3 data-zh="结构化思考" data-en="Structured">结构化思考</h3><p data-zh="让复杂的问题变得清晰。" data-en="Make complexity manageable.">让复杂的问题变得清晰。</p><small data-zh="我喜欢把零散、复杂的信息整理成清晰的结构、问题和下一步行动。" data-en="I enjoy turning scattered information into clear structures, questions and next steps.">我喜欢把零散、复杂的信息整理成清晰的结构、问题和下一步行动。</small></article>
+        <article><b>03</b><h3 data-zh="关注人与合作" data-en="People-oriented">关注人与合作</h3><p data-zh="连接人与不同的视角。" data-en="Connect people and perspectives.">连接人与不同的视角。</p><small data-zh="我喜欢听别人怎么想，也享受沟通、协作以及连接不同观点和需求的过程。" data-en="I enjoy listening, communicating and connecting different perspectives.">我喜欢听别人怎么想，也享受沟通、协作以及连接不同观点和需求的过程。</small></article>
+        <article><b>04</b><h3 data-zh="认真可靠" data-en="Reliable">认真可靠</h3><p data-zh="先核实，不想当然。" data-en="Verify, don't assume.">先核实，不想当然。</p><small data-zh="对需要准确性的事情，我更习惯核实，而不是想当然地下结论。" data-en="When something requires accuracy, I prefer to verify rather than assume.">对需要准确性的事情，我更习惯核实，而不是想当然地下结论。</small></article>
       </div>
+      <p class="about-closing" data-zh="理解 · 梳理 · 连接 · 核实" data-en="UNDERSTAND · STRUCTURE · CONNECT · VERIFY">理解 · 梳理 · 连接 · 核实</p>
     </section>
 
-    <section class="section warm" id="background">
+    <section class="section warm page-section" id="background" data-page="background">
       <header class="section-heading reveal"><div><span>02</span><p data-zh="个人背景" data-en="BACKGROUND">个人背景</p></div><h2 data-zh="学习、实践，和跨文化的轨迹。" data-en="A journey of learning, practice and cultures.">学习、实践，和跨文化的轨迹。</h2></header>
       <h3 class="subhead" data-zh="教育背景" data-en="Education">教育背景</h3>
       <div class="education-grid">
@@ -76,14 +82,14 @@
       </div>
     </section>
 
-    <section class="section" id="value">
+    <section class="section page-section" id="value" data-page="value">
       <header class="section-heading reveal"><div><span>03</span><p data-zh="我的价值" data-en="WHAT I BRING">我的价值</p></div><h2><span data-zh="以专业为基础，" data-en="Professional foundations,">以专业为基础，</span><em data-zh="参与真实的企业与项目。" data-en="practical support.">参与真实的企业与项目。</em></h2></header>
       <p class="lead" data-zh="我希望把研究、沟通、资源连接和项目跟进结合起来：在需要专业判断时知道应当进一步确认什么，在日常项目中也能承担具体而实际的工作。" data-en="I bring together research, communication, resource coordination and project follow-through—knowing what needs professional confirmation while staying useful in the practical work of a project.">我希望把研究、沟通、资源连接和项目跟进结合起来：在需要专业判断时知道应当进一步确认什么，在日常项目中也能承担具体而实际的工作。</p>
       <div id="value-grid" class="value-grid"></div>
       <div class="value-summary"><span data-zh="前期识别" data-en="SPOT EARLY">前期识别</span><b>→</b><span data-zh="研究核实" data-en="RESEARCH & VERIFY">研究核实</span><b>→</b><span data-zh="资源连接" data-en="CONNECT">资源连接</span><b>→</b><span data-zh="持续跟进" data-en="FOLLOW THROUGH">持续跟进</span></div>
     </section>
 
-    <section class="section dark" id="insights">
+    <section class="section dark page-section" id="insights" data-page="insights">
       <header class="section-heading reveal"><div><span>04</span><p>CBTC INSIGHTS</p></div><h2 data-zh="从“落地”到“融入”" data-en="Beyond Landing: Becoming Part of Europe">从“落地”到“融入”</h2></header>
       <p class="insight-intro" data-zh="一家企业如何从了解陌生市场开始，形成判断、完成落地、连接资源、适应新的规则和商业环境，并最终进入当地创新与产业生态。" data-en="How a company moves from understanding an unfamiliar market to making decisions, landing locally, connecting resources, adapting to a new regulatory and business environment, and becoming part of the innovation ecosystem.">一家企业如何从了解陌生市场开始，形成判断、完成落地、连接资源、适应新的规则和商业环境，并最终进入当地创新与产业生态。</p>
       <div class="journey"><span>DISCOVER</span><i>→</i><span>LAND</span><i>→</i><span>CONNECT</span><i>→</i><span>INNOVATE</span><i>→</i><span>GROW</span></div>
@@ -91,7 +97,7 @@
       <blockquote data-zh="理解差异 · 连接资源 · 在规则之内寻找真正可行的合作路径。" data-en="Understand differences · Connect resources · Find workable paths within the rules.">理解差异 · 连接资源 · 在规则之内寻找真正可行的合作路径。</blockquote>
     </section>
 
-    <section class="section project-section" id="projects">
+    <section class="section project-section page-section" id="projects" data-page="projects">
       <header class="section-heading reveal"><div><span>05</span><p data-zh="案例模拟" data-en="CASE SIMULATION">案例模拟</p></div><h2 data-zh="“L总，这家企业我先跟一下。”" data-en="“Mr. L, I’ll take this company.”">“L总，这家企业我先跟一下。”</h2></header>
       <p class="lead" data-zh="一家中国科技企业，从第一次接触 CBTC 到真正开始欧洲业务。以下企业、人物及项目均为虚构，基于 CBTC 业务模式与典型跨境需求设计。" data-en="How a Chinese technology company moves from its first conversation with CBTC to building a business in Europe. All characters and project details are fictional, designed around CBTC's model and typical cross-border needs.">一家中国科技企业，从第一次接触 CBTC 到真正开始欧洲业务。以下企业、人物及项目均为虚构，基于 CBTC 业务模式与典型跨境需求设计。</p>
       <nav class="episode-nav" id="episode-nav" aria-label="章节导航"></nav>
@@ -99,7 +105,7 @@
       <button id="more-episodes" class="more-button"><span data-zh="更多内容 · 展开 EP.04—06" data-en="MORE · OPEN EP.04—06">更多内容 · 展开 EP.04—06</span> ↓</button>
     </section>
 
-    <section class="section resources-section" id="resources">
+    <section class="section resources-section page-section" id="resources" data-page="resources">
       <header class="section-heading reveal"><div><span>06</span><p data-zh="法律知识库" data-en="LEGAL & REGULATORY LIBRARY">法律知识库</p></div><h2 data-zh="从企业问题，到具体法律规则。" data-en="From business questions to legal rules.">从企业问题，到具体法律规则。</h2></header>
       <p class="lead" data-zh="跨境经营的问题很少是一道孤立的“法律题”。它们往往同时连接不同法律关系、监管领域与管辖层级。" data-en="Cross-border questions rarely arrive as isolated legal issues. They usually connect multiple legal relationships, regulatory fields and jurisdictional layers.">跨境经营的问题很少是一道孤立的“法律题”。它们往往同时连接不同法律关系、监管领域与管辖层级。</p>
       <div class="legal-landscape"><div><small>01 · LEGAL LANDSCAPE</small><h3 data-zh="一段企业跨境旅程，多个法律层次。" data-en="One business journey. Multiple legal layers.">一段企业跨境旅程，多个法律层次。</h3><p>ENTER → ESTABLISH → PEOPLE → DO BUSINESS → INNOVATE → GROW</p></div><button class="image-open" aria-label="查看法律全景图"><img src="assets/legal-map.png" alt="中国企业进入比利时与欧盟的法律全景图"><span data-zh="查看全景图 ↗" data-en="View landscape ↗">查看全景图 ↗</span></button></div>

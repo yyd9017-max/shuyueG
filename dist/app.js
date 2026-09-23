@@ -6,6 +6,8 @@ const paths={
   legalZh:'assets/content/06 法律资源库.txt',legalEn:'assets/content/06法律知识库英文版.txt'
 };
 const state={lang:'zh',texts:{},expandedEpisodes:false};
+const validPages=['about','background','value','insights','projects','resources'];
+const currentPage=validPages.includes(new URLSearchParams(location.search).get('page'))?new URLSearchParams(location.search).get('page'):'about';
 const clean=s=>s.replace(/\f/g,'').replace(/\u2028/g,'\n').replace(/&amp;/g,'&').trim();
 const lines=s=>clean(s).split(/\n+/).map(x=>x.trim()).filter(Boolean);
 const esc=s=>s.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
@@ -53,7 +55,13 @@ const researchTitles={zh:['跨境用工与员工派驻','知识产权与联合�
 async function load(){
   const entries=await Promise.all(Object.entries(paths).map(async([k,p])=>[k,await fetch(encodeURI(p)).then(r=>r.text())]));
   state.texts=Object.fromEntries(entries);
-  renderAll();
+  applyRoute();renderAll();
+}
+function applyRoute(){
+  document.querySelectorAll('[data-page]').forEach(el=>el.hidden=el.dataset.page!==currentPage);
+  document.body.classList.toggle('inner-page',currentPage!=='about');
+  document.querySelectorAll('[data-page-link]').forEach(a=>a.classList.toggle('active',a.dataset.pageLink===currentPage));
+  if(currentPage!=='about')document.querySelector('.site-header').classList.add('scrolled');
 }
 function applyLanguage(){
   document.documentElement.lang=state.lang==='zh'?'zh-CN':'en';
@@ -143,7 +151,7 @@ document.querySelector('#content-dialog').onclick=e=>{if(e.target.id==='content-
 document.querySelector('.copy-wechat').onclick=async()=>{await navigator.clipboard.writeText('YYD9017');const t=document.querySelector('.toast');t.textContent=state.lang==='zh'?'微信号已复制':'WeChat ID copied';t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1800)};
 document.querySelector('.image-open').onclick=()=>openDialog(state.lang==='zh'?'法律全景图':'Legal Landscape','');
 document.querySelector('.image-open').onclick=()=>{const d=document.querySelector('#content-dialog');d.querySelector('.dialog-body').innerHTML=`<h2>${state.lang==='zh'?'法律全景图':'Legal Landscape'}</h2><img src="assets/legal-map.png" alt="Legal landscape" style="width:100%;height:auto;border-radius:10px">`;d.showModal()};
-window.addEventListener('scroll',()=>document.querySelector('.site-header').classList.toggle('scrolled',scrollY>40));
+window.addEventListener('scroll',()=>document.querySelector('.site-header').classList.toggle('scrolled',currentPage!=='about'||scrollY>40));
 const io=new IntersectionObserver(es=>es.forEach(e=>e.isIntersecting&&e.target.classList.add('visible')),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
 const sio=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){document.querySelectorAll('.main-nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+e.target.id))}}),{rootMargin:'-40% 0px -50%'});document.querySelectorAll('main>section[id]').forEach(s=>sio.observe(s));
 load().catch(err=>{console.error(err);document.querySelector('.toast').textContent='Content loading error'});
