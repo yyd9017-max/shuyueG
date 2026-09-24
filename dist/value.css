@@ -1,0 +1,37 @@
+#value { padding-top: 82px; background: #fbf7f0; }
+#value .section-heading { margin-bottom: 40px; }
+#value .section-heading h2 { max-width: 900px; font-size: clamp(2.55rem,4.35vw,4.65rem); line-height: 1.08; }
+.value-lead { max-width: 1040px; margin: -8px 0 44px; font-size: clamp(1.05rem,1.48vw,1.38rem); line-height: 1.68; }
+.value-narrative { border-top: 1px solid var(--line); }
+.value-chapter { display: grid; grid-template-columns: minmax(270px,.8fr) minmax(0,1.6fr); gap: 7vw; padding: 80px 0; border-bottom: 1px solid var(--line); }
+.value-chapter-head { position: sticky; top: 112px; align-self: start; display: grid; grid-template-columns: 54px 1fr; gap: 18px; }
+.value-chapter-head > span { color: var(--wine); font: 1.45rem var(--serif); }
+.value-chapter-head h3 { margin: 0; font: 500 clamp(1.8rem,3vw,3.2rem)/1.22 var(--serif); letter-spacing: -.03em; }
+.value-chapter-head p { margin: 20px 0 0; color: var(--wine); font: 500 1rem/1.75 var(--serif); }
+.value-intro { grid-column: 2; margin: -6px 0 34px; color: #554841; font: 1.08rem/1.95 var(--serif); }
+.value-sections { grid-column: 2; display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--line); }
+.value-detail { display: grid; grid-template-columns: 38px 1fr; gap: 13px; min-height: 220px; padding: 30px 25px 32px 0; border-bottom: 1px solid var(--line); }
+.value-detail:nth-child(even) { padding-left: 25px; border-left: 1px solid var(--line); }
+.value-detail > small { color: rgba(123,63,67,.65); font: .72rem var(--serif); }
+.value-detail h4 { margin: 0 0 14px; font: 600 1.16rem/1.45 var(--serif); }
+.value-detail p { margin: 0 0 10px; color: var(--muted); font-size: .82rem; line-height: 1.72; }
+.value-detail .value-keyline { display: inline-block; margin: 5px 4px 13px 0; padding: 6px 9px; border: 1px solid rgba(123,63,67,.18); border-radius: 7px; color: var(--wine); background: rgba(255,250,244,.55); font-size: .72rem; }
+.value-detail .value-question { color: var(--ink); font-family: var(--serif); font-weight: 500; }
+.value-detail .value-arrow { margin: 2px 0; color: var(--wine); text-align: center; }
+.value-scenarios { display: grid; grid-template-columns: 1fr 1fr; gap: 0 18px; }
+.value-scenario { padding: 13px 0; border-top: 1px solid var(--line); }
+.value-scenario h5 { margin: 0 0 5px; color: var(--ink); font: 600 .88rem/1.5 var(--serif); }
+.value-scenario p { margin: 0; }
+.value-disclosure { margin-top: 13px; }
+.value-disclosure > summary { display: inline-flex; align-items: center; gap: 9px; padding: 7px 0; border-bottom: 1px solid rgba(123,63,67,.42); color: var(--wine); font-size: .74rem; cursor: pointer; list-style: none; }
+.value-disclosure > summary::-webkit-details-marker { display: none; }
+.value-disclosure > summary span { font-size: .95rem; font-weight: 400; transition: transform .2s; }
+.value-disclosure[open] > summary span { transform: rotate(45deg); }
+.value-disclosure > div { margin-top: 18px; }
+.value-chapter-summary { grid-column: 2; max-width: 780px; margin-top: 28px; padding: 10px 0 10px 17px; border-left: 2px solid rgba(123,63,67,.55); background: linear-gradient(90deg,rgba(123,63,67,.055),transparent 72%); }
+.value-chapter-summary strong { display: block; color: #654a45; font: 500 1.03rem/1.75 var(--serif); }
+.value-closing { margin-top: 78px; padding: 48px 7vw; border-radius: 22px; background: var(--wine); color: var(--white); text-align: center; }
+.value-closing small { letter-spacing: .18em; }
+.value-closing p { max-width: 850px; margin: 18px auto 0; font: clamp(1.35rem,2.5vw,2.5rem)/1.55 var(--serif); }
+@media(max-width:900px){.value-chapter{grid-template-columns:1fr;gap:32px}.value-chapter-head{position:static}.value-intro,.value-sections,.value-chapter-summary{grid-column:1}}
+@media(max-width:640px){#value{padding-top:64px}#value .section-heading{margin-bottom:32px}#value .section-heading h2{font-size:clamp(2.3rem,10.5vw,3.35rem)}.value-lead{margin:0 0 42px;font-size:1rem}.value-chapter{padding:58px 0}.value-chapter-head{grid-template-columns:42px 1fr}.value-sections{grid-template-columns:1fr}.value-detail,.value-detail:nth-child(even){padding:26px 0;border-left:0;min-height:0}.value-scenarios{grid-template-columns:1fr}.value-closing{padding:42px 22px}}

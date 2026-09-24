@@ -33,7 +33,7 @@ Regulation (EU) 2024/1689 Artificial Intelligence Act
 01 ·首先识别
 system 产品中的AI功能在法律上是否构成AI system？
 role 企业是provider、deployer、importer、distributor，还是其他operator？
-Classification 系统属于禁止实践、高风险AI、特定透明度义务，还是其他类别？
+classification 系统属于禁止实践、高风险AI、特定透明度义务，还是其他类别？
 obligation 根据系统分类与企业角色，具体产生什么义务？
 02 ·核心法源
 Regulation (EU) 2024/1689 — Artificial Intelligence Act
@@ -58,11 +58,11 @@ VIEW OFFICIAL TEXT · Artificial Intelligence Act ↗
 传输 数据是否在用户、企业和合作伙伴之间共享，或发生跨境传输？
 02 ·核心法源
 Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)
+Regulation (EU) 2023/2854 — Data Act
 IN FORCE · APPLICABLE
 Article 5 — Principles relating to processing of personal data 确立合法、公平和透明、目的限制、数据最小化、准确性、存储限制、完整性与保密性以及accountability等基本原则。
 Article 6 — Lawfulness of processing 个人数据处理需要具有相应的合法性基础。
 Chapter V — Transfers to Third Countries or International Organisations 个人数据向欧盟以外第三国或国际组织传输时，还需进一步判断Chapter V规定的跨境传输条件。
-Regulation (EU) 2023/2854 — Data Act
 IN FORCE · APPLICABLE FROM 12 SEP 2025
 Data Act进一步覆盖联网产品及相关服务产生数据的访问和使用、数据持有者与接收者之间的数据提供以及数据处理服务切换等问题。法规总体自2025年9月12日适用，但部分具体义务另有分阶段适用安排。
 03 · 企业意义
@@ -794,4 +794,3 @@ CLOSING NOTE
 理解场景 · 识别边界 · 知道何时需要专业支持
 
 本知识库用于法律研究与专业展示，不构成针对具体事项的法律意见。
-

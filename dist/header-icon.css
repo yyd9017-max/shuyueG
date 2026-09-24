@@ -1,0 +1,39 @@
+.contact-icon svg {
+  width: 17px;
+  height: 17px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+body.en-mode .story-line.story-route + .story-line {
+  font-size: 1rem;
+}
+
+@media (min-width: 981px) {
+  #background > .section-heading h2 {
+    white-space: nowrap;
+    font-size: clamp(2.5rem, 4.6vw, 5rem);
+  }
+
+  body.en-mode #background > .section-heading h2 {
+    font-size: clamp(2.3rem, 3.5vw, 4rem);
+    letter-spacing: -0.045em;
+  }
+
+  body.en-mode .project-section > .section-heading h2 {
+    font-size: clamp(2.25rem, 3.45vw, 4rem);
+    line-height: 1.08;
+    white-space: nowrap;
+    text-wrap: nowrap;
+  }
+
+  body.en-mode .resources-section > .section-heading h2 {
+    font-size: clamp(2.3rem, 3.5vw, 4rem);
+    line-height: 1.08;
+    white-space: nowrap;
+    text-wrap: nowrap;
+  }
+}

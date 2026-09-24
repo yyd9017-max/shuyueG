@@ -6,8 +6,13 @@
   <meta name="description" content="郭姝玥的中英双语个人网站：国际商法背景、CBTC业务洞察、项目案例与法律知识库。">
   <title>郭姝玥 · Shuyue Guo</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%237b3f43'/%3E%3Cpath d='M18 19h28v5H25v8h17v5H25v8h21v5H18z' fill='%23f7f1e8'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="styles.css">
-  <script src="app.js" defer></script>
+  <link rel="stylesheet" href="styles.css?v=13">
+  <link rel="stylesheet" href="culture.css?v=5">
+  <link rel="stylesheet" href="value.css?v=4">
+  <link rel="stylesheet" href="insights.css?v=4">
+  <link rel="stylesheet" href="resources.css?v=14">
+  <link rel="stylesheet" href="header-icon.css?v=5">
+  <script src="app.js?v=48" defer></script>
 </head>
 <body>
   <header class="site-header" id="top">
@@ -23,7 +28,7 @@
     </nav>
     <div class="header-actions">
       <button class="lang-toggle" aria-label="切换语言"><span class="lang-zh">中</span><i></i><span class="lang-en">EN</span></button>
-      <a class="contact-icon" href="#contact" aria-label="联系方式">↘</a>
+      <a class="contact-icon" href="#contact" aria-label="联系方式"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.5 7.25h15v9.5h-15zM5 8l7 5 7-5"/></svg></a>
     </div>
   </header>
 
@@ -46,7 +51,7 @@
     </section>
 
     <section class="about-more section" id="about-more" data-page="about">
-      <div class="section-index">01 / ABOUT</div>
+      <div class="section-index" data-zh="01 / 关于我" data-en="01 / ABOUT">01 / 关于我</div>
       <div class="split-intro reveal">
         <h2 data-zh="不止于法律。" data-en="More than a legal background.">不止于法律。</h2>
         <div class="about-statement">
@@ -66,56 +71,87 @@
     </section>
 
     <section class="section warm page-section" id="background" data-page="background">
-      <header class="section-heading reveal"><div><span>02</span><p data-zh="个人背景" data-en="BACKGROUND">个人背景</p></div><h2 data-zh="学习、实践，和跨文化的轨迹。" data-en="A journey of learning, practice and cultures.">学习、实践，和跨文化的轨迹。</h2></header>
+      <header class="section-heading reveal"><div><span>02</span><p data-zh="个人背景" data-en="BACKGROUND">个人背景</p></div><h2 data-zh="学习、实践，和跨文化的轨迹" data-en="A journey of learning, practice and cultures">学习、实践，和跨文化的轨迹</h2></header>
       <h3 class="subhead" data-zh="教育背景" data-en="Education">教育背景</h3>
       <div class="education-grid">
-        <article class="education-card reveal"><img src="assets/glasgow.webp" alt="格拉斯哥大学"><div><small>2022—2023 · UK</small><h3 data-zh="格拉斯哥大学" data-en="University of Glasgow">格拉斯哥大学</h3><p data-zh="国际商法法学硕士（LLM）" data-en="LLM in International Commercial Law">国际商法法学硕士（LLM）</p><div class="course-line">International Investment Law · Corporate Governance · IP · Capital Markets</div></div></article>
-        <article class="education-card reveal"><img src="assets/nwafu.jpeg" alt="西北农林科技大学"><div><small>2018—2022 · CHINA</small><h3 data-zh="西北农林科技大学" data-en="Northwest A&amp;F University">西北农林科技大学</h3><p data-zh="法学学士" data-en="Bachelor of Law">法学学士</p><div class="course-line" data-zh="合同法 · 经济法 · 国际法 · 仲裁法 · 知识产权法" data-en="Contract · Economic · International · Arbitration · IP Law">合同法 · 经济法 · 国际法 · 仲裁法 · 知识产权法</div></div></article>
+        <article class="education-card education-open reveal" tabindex="0" role="button" data-edu="glasgow" aria-label="查看格拉斯哥大学完整信息"><img src="assets/glasgow.webp" alt="格拉斯哥大学"><div><small data-zh="2022—2023 · 英国格拉斯哥" data-en="2022—2023 · GLASGOW, UK">2022—2023 · 英国格拉斯哥</small><h3 data-zh="格拉斯哥大学" data-en="University of Glasgow">格拉斯哥大学</h3><p data-zh="国际商法法学硕士（LLM）" data-en="LLM in International Commercial Law">国际商法法学硕士（LLM）</p><div class="course-line" data-zh="国际投资法 · 国际销售与金融 · 公司治理 · 知识产权与市场" data-en="International Investment Law · International Sales and Finance · Corporate Governance · IP">国际投资法 · 国际销售与金融 · 公司治理 · 知识产权与市场</div><span class="card-cta" data-zh="查看完整内容 ＋" data-en="View full details ＋">查看完整内容 ＋</span></div></article>
+        <article class="education-card education-open reveal" tabindex="0" role="button" data-edu="nwafu" aria-label="查看西北农林科技大学完整信息"><img src="assets/nwafu.jpeg" alt="西北农林科技大学"><div><small data-zh="2018—2022 · 中国杨凌" data-en="2018—2022 · YANGLING, CHINA">2018—2022 · 中国杨凌</small><h3 data-zh="西北农林科技大学" data-en="Northwest A&amp;F University">西北农林科技大学</h3><p data-zh="法学学士" data-en="Bachelor of Law">法学学士</p><div class="course-line" data-zh="合同法 · 经济法 · 国际法 · 国际私法 · 仲裁法 · 知识产权法" data-en="Contract Law · Economic Law · International Law · Arbitration · IP">合同法 · 经济法 · 国际法 · 国际私法 · 仲裁法 · 知识产权法</div><span class="card-cta" data-zh="查看完整内容 ＋" data-en="View full details ＋">查看完整内容 ＋</span></div></article>
       </div>
       <div class="experience-wrap">
-        <div class="subhead-row"><h3 class="subhead" data-zh="工作与领导经历" data-en="Experience & Leadership">工作与领导经历</h3><span data-zh="点击展开完整信息" data-en="Open for full details">点击展开完整信息</span></div>
+        <div class="subhead-row"><h3 class="subhead" data-zh="工作经历" data-en="Professional Experience">工作经历</h3><span data-zh="点击查看完整信息" data-en="Open for full details">点击查看完整信息</span></div>
         <div id="experience-list" class="accordion-list"></div>
       </div>
-      <div class="culture-block">
-        <div class="culture-copy reveal"><p class="eyebrow" data-zh="音乐与文化参与" data-en="MUSIC & CULTURAL ENGAGEMENT">音乐与文化参与</p><h2 data-zh="音乐一直是我生活中很重要的一部分。" data-en="Music has always been an important part of my life.">音乐一直是我生活中很重要的一部分。</h2><p data-zh="小提琴十级 · 声乐十级 · 钢琴 · 葫芦丝 · 尤克里里。舞台让我学会倾听、协作，也让我享受在不同文化之间建立连接。" data-en="Grade 10 violin and vocal training, alongside piano, hulusi and ukulele. The stage taught me to listen, collaborate and build connections across cultures.">小提琴十级 · 声乐十级 · 钢琴 · 葫芦丝 · 尤克里里。舞台让我学会倾听、协作，也让我享受在不同文化之间建立连接。</p><div class="award">2019 · CCTV-1<br><span data-zh="“五月的鲜花”全国大中学生文艺汇演" data-en="May Flowers National Student Arts Gala">“五月的鲜花”全国大中学生文艺汇演</span></div></div>
-        <div class="gallery" aria-label="文艺演出照片画廊"><img src="assets/gallery-2.jpg" alt="文艺演出照片"><img src="assets/gallery-6.JPG" alt="文艺演出照片"><img src="assets/gallery-8.jpg" alt="文化活动照片"><img src="assets/gallery-4.JPG" alt="舞台演出照片"><img src="assets/gallery-10.jpg" alt="音乐活动照片"></div>
+      <div class="leadership-wrap">
+        <div class="subhead-row"><h3 class="subhead" data-zh="跨文化协作与领导力" data-en="Cross-cultural Collaboration & Leadership">跨文化协作与领导力</h3><span data-zh="点击查看完整信息" data-en="Open for full details">点击查看完整信息</span></div>
+        <div class="leadership-grid">
+          <article class="leadership-card" tabindex="0" role="button" data-leadership="mun"><small>01 · GLASGOW</small><h3 data-zh="模拟联合国社团成员" data-en="Model United Nations Member">模拟联合国社团成员</h3><p data-zh="格拉斯哥大学模拟联合国社团" data-en="University of Glasgow Model United Nations">格拉斯哥大学模拟联合国社团</p><span data-zh="2022.09—2023.03 · 英国格拉斯哥" data-en="SEP 2022—MAR 2023 · GLASGOW, UK">2022.09—2023.03 · 英国格拉斯哥</span><b data-zh="查看完整经历 ＋" data-en="View full experience ＋">查看完整经历 ＋</b></article>
+          <article class="leadership-card" tabindex="0" role="button" data-leadership="choir"><small>02 · N.W.A.F.U.</small><h3 data-zh="大学合唱团团长" data-en="Choir Leader">大学合唱团团长</h3><p data-zh="西北农林科技大学合唱团" data-en="Northwest A&amp;F University Choir">西北农林科技大学合唱团</p><span data-zh="2019.07—2021.09 · 中国咸阳" data-en="JUL 2019—SEP 2021 · XIANYANG, CHINA">2019.07—2021.09 · 中国咸阳</span><b data-zh="查看完整经历 ＋" data-en="View full experience ＋">查看完整经历 ＋</b></article>
+        </div>
       </div>
+      <section class="culture-block" aria-labelledby="culture-title">
+        <header class="culture-header reveal"><div><p class="culture-section-title" data-zh="音乐与文化参与" data-en="Music &amp; Cultural Engagement">音乐与文化参与</p><h2 id="culture-title" data-zh="在舞台上，学习倾听、协作与连接。" data-en="On stage, I learned to listen, collaborate and connect.">在舞台上，学习倾听、协作与连接。</h2></div><p data-zh="音乐一直是我生活中很重要的一部分。从小提琴、声乐，到比赛、舞台演出和文化交流活动，我喜欢的不只是表演本身，也喜欢音乐和艺术让不同的人产生连接、共同创造一段体验的过程。" data-en="Music has been a long-standing part of my life. From violin and singing to competitions, stage performances and cultural exchange, I value not only performance itself, but also the way music and art connect people and create a shared experience.">音乐一直是我生活中很重要的一部分。从小提琴、声乐，到比赛、舞台演出和文化交流活动，我喜欢的不只是表演本身，也喜欢音乐和艺术让不同的人产生连接、共同创造一段体验的过程。</p></header>
+        <div class="music-profile reveal">
+          <article><span>01</span><small data-zh="专业等级" data-en="CERTIFICATION">专业等级</small><h3 data-zh="小提琴 · 十级" data-en="Violin · Grade 10">小提琴 · 十级</h3><p data-zh="全国社会艺术水平考级证书" data-en="Certificate of Arts Grade Examination of China">全国社会艺术水平考级证书</p></article>
+          <article><span>02</span><small data-zh="专业等级" data-en="CERTIFICATION">专业等级</small><h3 data-zh="声乐 · 十级" data-en="Vocal · Grade 10">声乐 · 十级</h3><p data-zh="全国社会艺术水平考级证书" data-en="Certificate of Arts Grade Examination of China">全国社会艺术水平考级证书</p></article>
+          <article><span>03</span><small data-zh="其他乐器" data-en="OTHER INSTRUMENTS">其他乐器</small><h3 data-zh="钢琴 · 葫芦丝 · 尤克里里" data-en="Piano · Hulusi · Ukulele">钢琴 · 葫芦丝 · 尤克里里</h3><p data-zh="持续的音乐学习与舞台实践" data-en="Ongoing musical study and stage practice">持续的音乐学习与舞台实践</p></article>
+        </div>
+        <div class="culture-timeline reveal">
+          <article><time>2017</time><div><strong data-zh="声乐组一等奖" data-en="First Prize · Vocal Category">声乐组一等奖</strong><p data-zh="陕西省第十五届“春芽杯”艺术比赛" data-en="15th Shaanxi Chunya Cup Arts Competition">陕西省第十五届“春芽杯”艺术比赛</p></div></article>
+          <article><time>2018</time><div><strong data-zh="声乐类一等奖" data-en="First Prize · Vocal Category">声乐类一等奖</strong><p data-zh="西北农林科技大学第16届新生才艺大赛" data-en="16th Northwest A&amp;F University Freshman Talent Competition">西北农林科技大学第16届新生才艺大赛</p></div></article>
+          <article><time>2018—2019</time><div><strong data-zh="独唱 · 领唱 · 演唱嘉宾" data-en="Soloist · Lead Vocalist · Guest Singer">独唱 · 领唱 · 演唱嘉宾</strong><p data-zh="参与学校音乐会、艺术比赛及大型文艺活动，并参加杨凌示范区庆祝新中国成立70周年文艺晚会等校外演出。" data-en="Performed at university concerts, arts competitions and major events, including a Yangling Demonstration Zone gala marking the 70th anniversary of the PRC.">参与学校音乐会、艺术比赛及大型文艺活动，并参加杨凌示范区庆祝新中国成立70周年文艺晚会等校外演出。</p></div></article>
+          <article class="timeline-feature"><time>2019</time><div><strong data-zh="CCTV-1 · “五月的鲜花”" data-en="CCTV-1 · Flowers in May">CCTV-1 · “五月的鲜花”</strong><p data-zh="赴北京参加全国大中学生文艺汇演。" data-en="Participated in the national college student arts performance in Beijing.">赴北京参加全国大中学生文艺汇演。</p></div></article>
+          <article><time>2020</time><div><strong data-zh="百名校园之星 · 文艺之星" data-en="Hundred Campus Stars · Arts Star">百名校园之星 · 文艺之星</strong><p data-zh="获西北农林科技大学2020年“文艺之星”。" data-en="Selected as Northwest A&amp;F University's 2020 Star of Literature and Art.">获西北农林科技大学2020年“文艺之星”。</p></div></article>
+          <article><time>2020</time><div><strong data-zh="跨文化节目交流" data-en="Cross-cultural Exchange">跨文化节目交流</strong><p data-zh="参与“海峡两岸暨港澳青年 云上过春秋”节目录制，并参与编排中俄线上交流汇演表演唱节目。" data-en="Joined the Youth Across the Taiwan Strait, Hong Kong and Macao programme and helped arrange a China–Russia online cultural-exchange performance.">参与“海峡两岸暨港澳青年 云上过春秋”节目录制，并参与编排中俄线上交流汇演表演唱节目。</p></div></article>
+        </div>
+        <div class="gallery-heading"><span data-zh="舞台瞬间" data-en="STAGE MOMENTS">舞台瞬间</span><small data-zh="横向滑动查看全部照片 →" data-en="Scroll to view all photographs →">横向滑动查看全部照片 →</small></div>
+        <div class="gallery" aria-label="文艺演出照片画廊" tabindex="0"><figure><img src="assets/gallery-6.JPG" alt="文艺演出照片 6"></figure><figure><img src="assets/gallery-8.jpg" alt="文化活动照片 8"></figure><figure><img src="assets/gallery-9.jpg" alt="音乐活动照片 9"></figure><figure><img src="assets/gallery-10.jpg" alt="音乐活动照片 10"></figure><figure><img src="assets/gallery-4.JPG" alt="舞台演出照片 4"></figure><figure><img src="assets/gallery-1.JPG" alt="文艺演出照片 1"></figure><figure><img src="assets/gallery-2.jpg" alt="文艺演出照片 2"></figure><figure><img src="assets/gallery-3.JPG" alt="文艺演出照片 3"></figure><figure><img src="assets/gallery-5.JPG" alt="文艺演出照片 5"></figure><figure><img src="assets/gallery-7.JPG" alt="文化活动照片 7"></figure></div>
+        <p class="culture-tags" data-zh="小提琴 · 声乐 · 舞台表演 · 艺术与文化 · 跨文化交流" data-en="VIOLIN · VOCAL · STAGE PERFORMANCE · ARTS &amp; CULTURE · CROSS-CULTURAL EXCHANGE">小提琴 · 声乐 · 舞台表演 · 艺术与文化 · 跨文化交流</p>
+      </section>
     </section>
 
     <section class="section page-section" id="value" data-page="value">
       <header class="section-heading reveal"><div><span>03</span><p data-zh="我的价值" data-en="WHAT I BRING">我的价值</p></div><h2><span data-zh="以专业为基础，" data-en="Professional foundations,">以专业为基础，</span><em data-zh="参与真实的企业与项目。" data-en="practical support.">参与真实的企业与项目。</em></h2></header>
-      <p class="lead" data-zh="我希望把研究、沟通、资源连接和项目跟进结合起来：在需要专业判断时知道应当进一步确认什么，在日常项目中也能承担具体而实际的工作。" data-en="I bring together research, communication, resource coordination and project follow-through—knowing what needs professional confirmation while staying useful in the practical work of a project.">我希望把研究、沟通、资源连接和项目跟进结合起来：在需要专业判断时知道应当进一步确认什么，在日常项目中也能承担具体而实际的工作。</p>
-      <div id="value-grid" class="value-grid"></div>
-      <div class="value-summary"><span data-zh="前期识别" data-en="SPOT EARLY">前期识别</span><b>→</b><span data-zh="研究核实" data-en="RESEARCH & VERIFY">研究核实</span><b>→</b><span data-zh="资源连接" data-en="CONNECT">资源连接</span><b>→</b><span data-zh="持续跟进" data-en="FOLLOW THROUGH">持续跟进</span></div>
+      <p class="lead value-lead" data-zh="我的法律背景让我能够更早识别合同、合规和监管问题，但我希望参与的不只是法律事项本身。对企业服务和跨境项目而言，我更希望把研究、沟通、资源连接和项目跟进结合起来，在需要专业判断时知道应当进一步确认什么，在日常项目中也能够承担具体而实际的工作。" data-en="My legal background helps me identify contractual, compliance and regulatory issues at an earlier stage, but I hope to contribute beyond legal matters alone. In enterprise services and cross-border projects, I would like to combine research, communication, resource connections and project follow-up, knowing what needs further confirmation when professional judgment is required, while also taking on concrete, practical work in everyday projects.">我的法律背景让我能够更早识别合同、合规和监管问题，但我希望参与的不只是法律事项本身。对企业服务和跨境项目而言，我更希望把研究、沟通、资源连接和项目跟进结合起来，在需要专业判断时知道应当进一步确认什么，在日常项目中也能够承担具体而实际的工作。</p>
+      <div id="value-grid" class="value-narrative"></div>
+      <div class="value-closing"><small data-zh="我可以带来的价值" data-en="WHAT I CAN BRING">我可以带来的价值</small><p data-zh="以法律为专业底座，连接不同语境，也保持足够的灵活性，在项目需要的地方发挥作用。" data-en="Building on law as a professional foundation, connecting different contexts and staying flexible enough to contribute wherever the project needs support.">以法律为专业底座，连接不同语境，也保持足够的灵活性，在项目需要的地方发挥作用。</p></div>
     </section>
 
-    <section class="section dark page-section" id="insights" data-page="insights">
-      <header class="section-heading reveal"><div><span>04</span><p>CBTC INSIGHTS</p></div><h2 data-zh="从“落地”到“融入”" data-en="Beyond Landing: Becoming Part of Europe">从“落地”到“融入”</h2></header>
-      <p class="insight-intro" data-zh="一家企业如何从了解陌生市场开始，形成判断、完成落地、连接资源、适应新的规则和商业环境，并最终进入当地创新与产业生态。" data-en="How a company moves from understanding an unfamiliar market to making decisions, landing locally, connecting resources, adapting to a new regulatory and business environment, and becoming part of the innovation ecosystem.">一家企业如何从了解陌生市场开始，形成判断、完成落地、连接资源、适应新的规则和商业环境，并最终进入当地创新与产业生态。</p>
-      <div class="journey"><span>DISCOVER</span><i>→</i><span>LAND</span><i>→</i><span>CONNECT</span><i>→</i><span>INNOVATE</span><i>→</i><span>GROW</span></div>
-      <div id="insight-list" class="insight-list"></div>
-      <blockquote data-zh="理解差异 · 连接资源 · 在规则之内寻找真正可行的合作路径。" data-en="Understand differences · Connect resources · Find workable paths within the rules.">理解差异 · 连接资源 · 在规则之内寻找真正可行的合作路径。</blockquote>
+    <section class="section insights-section page-section" id="insights" data-page="insights">
+      <header class="section-heading reveal"><div><span>04</span><p data-zh="CBTC业务洞察" data-en="CBTC INSIGHTS">CBTC业务洞察</p></div><h2 class="insight-page-title"><span data-zh="从“落地”到“融入”" data-en="Beyond Landing">从“落地”到“融入”</span><em data-zh="我对CBTC业务生态的理解" data-en="How I Understand the CBTC Ecosystem">我对CBTC业务生态的理解</em></h2></header>
+      <div class="insight-opening reveal">
+        <p data-zh="随着对CBTC了解的深入，我越来越不会简单地用“海外科技园”来概括它。" data-en="The more I learned about CBTC, the less I saw it simply as an overseas technology park.">随着对CBTC了解的深入，我越来越不会简单地用“海外科技园”来概括它。</p>
+        <p data-zh="真正让我感兴趣的，是园区背后的整套业务逻辑：一家企业如何从了解一个陌生市场开始，形成判断、完成落地、连接资源、适应新的规则和商业环境，并最终逐渐进入当地的创新与产业生态。" data-en="What interests me more is the system behind it: how a company moves from understanding an unfamiliar market, to making a decision, landing locally, connecting with the right resources, adapting to a different regulatory and business environment, and eventually becoming part of the local innovation ecosystem.">真正让我感兴趣的，是园区背后的整套业务逻辑：一家企业如何从了解一个陌生市场开始，形成判断、完成落地、连接资源、适应新的规则和商业环境，并最终逐渐进入当地的创新与产业生态。</p>
+        <p data-zh="如果把这些服务放回企业自身的发展过程，我会把它理解成一条不断向前延伸的路径：" data-en="When I place these services within a company's own development journey, I see them as a path that keeps moving forward:">如果把这些服务放回企业自身的发展过程，我会把它理解成一条不断向前延伸的路径：</p>
+      </div>
+      <div class="journey"><span>DISCOVER<small data-zh="了解" data-en="DISCOVER">了解</small></span><i>→</i><span>LAND<small data-zh="落地" data-en="LAND">落地</small></span><i>→</i><span>CONNECT<small data-zh="连接" data-en="CONNECT">连接</small></span><i>→</i><span>INNOVATE<small data-zh="创新" data-en="INNOVATE">创新</small></span><i>→</i><span>GROW<small data-zh="成长" data-en="GROW">成长</small></span></div>
+      <div id="insight-list" class="insight-stream"></div>
+      <section id="insight-understanding" class="insight-understanding"></section>
     </section>
 
     <section class="section project-section page-section" id="projects" data-page="projects">
       <header class="section-heading reveal"><div><span>05</span><p data-zh="案例模拟" data-en="CASE SIMULATION">案例模拟</p></div><h2 data-zh="“L总，这家企业我先跟一下。”" data-en="“Mr. L, I’ll take this company.”">“L总，这家企业我先跟一下。”</h2></header>
-      <p class="lead" data-zh="一家中国科技企业，从第一次接触 CBTC 到真正开始欧洲业务。以下企业、人物及项目均为虚构，基于 CBTC 业务模式与典型跨境需求设计。" data-en="How a Chinese technology company moves from its first conversation with CBTC to building a business in Europe. All characters and project details are fictional, designed around CBTC's model and typical cross-border needs.">一家中国科技企业，从第一次接触 CBTC 到真正开始欧洲业务。以下企业、人物及项目均为虚构，基于 CBTC 业务模式与典型跨境需求设计。</p>
+      <div class="project-lead"><p data-zh="一家中国科技企业，从第一次接触 CBTC 到真正开始欧洲业务。" data-en="How a Chinese technology company moves from its first conversation with CBTC to building a business in Europe.">一家中国科技企业，从第一次接触 CBTC 到真正开始欧洲业务。</p><small data-zh="以下企业、人物及项目均为虚构，基于 CBTC 业务模式与典型跨境需求设计。" data-en="All companies, characters and project details are fictional and designed around CBTC's model and typical cross-border needs.">以下企业、人物及项目均为虚构，基于 CBTC 业务模式与典型跨境需求设计。</small></div>
       <nav class="episode-nav" id="episode-nav" aria-label="章节导航"></nav>
       <div id="episodes" class="episodes"></div>
-      <button id="more-episodes" class="more-button"><span data-zh="更多内容 · 展开 EP.04—06" data-en="MORE · OPEN EP.04—06">更多内容 · 展开 EP.04—06</span> ↓</button>
+      <button id="more-episodes" class="more-button"><span data-zh="更多故事 · 展开 EP.04—06" data-en="MORE STORIES · OPEN EP.04—06">更多故事 · 展开 EP.04—06</span> ↓</button>
     </section>
 
     <section class="section resources-section page-section" id="resources" data-page="resources">
-      <header class="section-heading reveal"><div><span>06</span><p data-zh="法律知识库" data-en="LEGAL & REGULATORY LIBRARY">法律知识库</p></div><h2 data-zh="从企业问题，到具体法律规则。" data-en="From business questions to legal rules.">从企业问题，到具体法律规则。</h2></header>
-      <p class="lead" data-zh="跨境经营的问题很少是一道孤立的“法律题”。它们往往同时连接不同法律关系、监管领域与管辖层级。" data-en="Cross-border questions rarely arrive as isolated legal issues. They usually connect multiple legal relationships, regulatory fields and jurisdictional layers.">跨境经营的问题很少是一道孤立的“法律题”。它们往往同时连接不同法律关系、监管领域与管辖层级。</p>
-      <div class="legal-landscape"><div><small>01 · LEGAL LANDSCAPE</small><h3 data-zh="一段企业跨境旅程，多个法律层次。" data-en="One business journey. Multiple legal layers.">一段企业跨境旅程，多个法律层次。</h3><p>ENTER → ESTABLISH → PEOPLE → DO BUSINESS → INNOVATE → GROW</p></div><button class="image-open" aria-label="查看法律全景图"><img src="assets/legal-map.png" alt="中国企业进入比利时与欧盟的法律全景图"><span data-zh="查看全景图 ↗" data-en="View landscape ↗">查看全景图 ↗</span></button></div>
+      <header class="section-heading reveal"><div><span>06</span><p data-zh="法律知识库" data-en="LEGAL & REGULATORY LIBRARY">法律知识库</p></div><h2 data-zh="从企业问题，到具体法律规则。" data-en="From business questions to legal rules">从企业问题，到具体法律规则。</h2></header>
+      <div id="legal-opening" class="legal-opening"></div>
+      <section class="legal-landscape"><div><small>01 · LEGAL LANDSCAPE</small><h3 data-zh="一段企业跨境旅程，多个法律层次。" data-en="One business journey. Multiple legal layers.">一段企业跨境旅程，多个法律层次。</h3><div id="landscape-intro"></div></div><figure class="legal-map-full"><img src="assets/legal-map.png" alt="中国企业进入比利时与欧盟的法律全景图"><figcaption data-zh="ENTER → ESTABLISH → PEOPLE → DO BUSINESS → INNOVATE → GROW" data-en="ENTER → ESTABLISH → PEOPLE → DO BUSINESS → INNOVATE → GROW">ENTER → ESTABLISH → PEOPLE → DO BUSINESS → INNOVATE → GROW</figcaption></figure></section>
       <div class="resource-heading"><span>02</span><div><h3 data-zh="欧盟监管重点" data-en="REGULATORY FOCUS">欧盟监管重点</h3><p data-zh="科技 · 绿色转型 · 安全与韧性" data-en="Technology · Green Transition · Security">科技 · 绿色转型 · 安全与韧性</p></div></div>
+      <div id="regulatory-intro" class="resource-intro"></div>
       <div id="regulatory-grid" class="regulatory-grid"></div>
       <div class="resource-heading"><span>03</span><div><h3 data-zh="专题法律研究" data-en="FEATURED LEGAL RESEARCH">专题法律研究</h3><p data-zh="从企业场景，到法律分析" data-en="From Business Scenario to Legal Analysis">从企业场景，到法律分析</p></div></div>
+      <div id="research-intro" class="resource-intro"></div>
       <div id="research-list" class="accordion-list research-list"></div>
       <div class="resource-heading"><span>04</span><div><h3 data-zh="法律资源" data-en="LEGAL RESOURCES">法律资源</h3><p data-zh="将官方法源与项目事实连接起来" data-en="Connecting official sources to project facts">将官方法源与项目事实连接起来</p></div></div>
+      <div id="sources-intro" class="resource-intro"></div>
       <div id="legal-links" class="legal-links"></div>
       <div id="closing-note" class="closing-note"></div>
+      <p id="closing-tail" class="closing-tail"></p>
+      <p id="legal-disclaimer" class="legal-disclaimer"></p>
     </section>
   </main>
 
