@@ -47,7 +47,25 @@ const insightTitles={
  zh:['企业出海的第一步，是先想清楚“为什么”','“落地”真正解决的，是如何在新的环境里经营','“生态”的价值，最终要落到真实的连接','从“一站式服务”，继续走向科技创新','今天的“进入欧洲”，正在变成更综合的能力测试','真正的国际化，不应该止于“把产品卖出去”','有些基础设施不是建筑，而是关系','它的意义，也不止于园区本身'],
  en:['First Ask Why','Landing Means Adaptation','The Value of an Ecosystem Is Who It Connects','From One-stop Service to Innovation','A More Complex European Market','From Product to Industry to Brand','Relationship Infrastructure','Why CBTC Matters Beyond the Park']
 };
-const regTitles={zh:['人工智能','数据与数字监管','网络安全与韧性','绿色与可持续产品','芯片与关键技术','经济安全'],en:['Artificial Intelligence','Data & Digital Regulation','Cyber Resilience','Sustainable Products','Chips & Strategic Technology','Policy, Law & Business Exposure']};
+const regTitles={zh:['人工智能','数据与数字监管','网络安全与韧性','绿色与可持续产品','芯片与关键技术','经济安全'],en:['Artificial Intelligence','Data & Digital Regulation','Cyber Resilience','Sustainable Products','Chips & Strategic Technology','Economic Security']};
+const regCards={
+ zh:[
+  ['产品或服务是否涉及AI系统？','体系 · 角色 · 分类'],
+  ['涉及什么数据，又如何被使用？','个人数据 · 访问 · 共享 · GDPR · Data Act'],
+  ['产品是否包含数字元素？','产品安全 · 漏洞 · 生命周期'],
+  ['产品可能受到哪些可持续性要求影响？','耐用性 · 可维修性 · 产品信息'],
+  ['企业准备如何在欧洲开展关键技术业务？','半导体 · 技术 · 交易 · EU Chips Act · Investment Screening'],
+  ['战略性政策关注，是否已经转化为适用于企业的法律规则？','政策 · 法律地位 · 适用性']
+ ],
+ en:[
+  ['Does the product or service involve an AI system?','System · Role · Classification'],
+  ['What data is involved, and how is it used?','Personal data · Access · Sharing · GDPR · Data Act'],
+  ['Does the product contain digital elements?','Product security · Vulnerabilities · Lifecycle'],
+  ['Which sustainability requirements may affect the product?','Durability · Repairability · Product information'],
+  ['How does the company plan to develop its critical-technology business in Europe?','Semiconductors · Technology · Transactions · EU Chips Act · Investment Screening'],
+  ['Has strategic policy attention translated into legal rules applicable to the company?','Policy · Legal status · Applicability']
+ ]
+};
 const researchTitles={zh:['跨境用工与员工派驻','知识产权与研发合作','跨境商业合同','欧盟市场准入'],en:['Cross-border Employment & Employee Posting','IP & R&D Collaboration','Cross-border Commercial Contracts','EU Market Entry']};
 const educationDetails={
  glasgow:{
@@ -329,7 +347,7 @@ function renderLegal(){
  const landscape=lines(textBetween(text,landscapeMarker,regMarker));document.querySelector('#landscape-intro').innerHTML=landscape.slice(2).map(p=>`<p class="${/^ENTER →/.test(p)||/企业走到哪里|Where(?:ver| the business) goes/i.test(p)?'landscape-key':''}">${esc(p)}</p>`).join('');
  const regStart=text.indexOf(regMarker),firstReg=text.indexOf(locale==='zh'?'01 · AI':'01 · AI',regStart);const regIntro=lines(text.slice(regStart,firstReg));document.querySelector('#regulatory-intro').innerHTML=regIntro.slice(2).map(p=>`<p>${esc(p)}</p>`).join('');
  const regs=regulatoryChunks(text);
- document.querySelector('#regulatory-grid').innerHTML=regs.map((body,i)=>{const l=lines(body),card=l.indexOf(locale==='zh'?'页面小卡':'PAGE CARD'),bits=l.slice(card+1).filter(x=>!/^探索|^Explore|^点开展开|^Open/.test(x));return `<article class="reg-card"><small>0${i+1}</small><h4>${esc(regTitles[locale][i])}</h4><p class="reg-question">${esc(bits[0]||l[2]||'')}</p><span class="reg-tag">${esc(bits[1]||'')}</span><button data-legal-title="${esc(regTitles[locale][i])}" data-legal-body="${encodeURIComponent(body)}">${locale==='zh'?'探索':'Explore'} →</button></article>`}).join('');
+ document.querySelector('#regulatory-grid').innerHTML=regs.map((body,i)=>`<article class="reg-card"><small>0${i+1}</small><h4>${esc(regTitles[locale][i])}</h4><p class="reg-question">${esc(regCards[locale][i][0])}</p><span class="reg-tag">${esc(regCards[locale][i][1])}</span><button data-legal-title="${esc(regTitles[locale][i])}" data-legal-body="${encodeURIComponent(body)}">${locale==='zh'?'探索':'Explore'} →</button></article>`).join('');
  const researchStart=text.indexOf(researchMarker),firstResearch=text.indexOf('01 · PEOPLE',researchStart);const researchIntro=lines(text.slice(researchStart,firstResearch));document.querySelector('#research-intro').innerHTML=researchIntro.slice(2).map(p=>`<p>${esc(p)}</p>`).join('');
  const research=researchChunks(text).filter(Boolean);document.querySelector('#research-list').innerHTML=research.map((body,i)=>{const l=lines(body);return `<article class="research-card"><span>0${i+1}</span><div><h4>${esc(l[1]||researchTitles[locale][i])}</h4><p>${esc(l[2]||'')}</p><small>${esc(l[3]||'')}</small></div><button data-legal-title="${esc(l[1]||researchTitles[locale][i])}" data-legal-body="${encodeURIComponent(body)}">${locale==='zh'?'阅读全文':'Read full article'} →</button></article>`}).join('');
  document.querySelector('#sources-intro').innerHTML='';
@@ -369,6 +387,7 @@ document.querySelector('#content-dialog').onclick=e=>{if(e.target.id==='content-
 document.querySelector('.copy-wechat').onclick=async()=>{await navigator.clipboard.writeText('YYD9017');const t=document.querySelector('.toast');t.textContent=state.lang==='zh'?'微信号已复制':'WeChat ID copied';t.classList.add('show');setTimeout(()=>t.classList.remove('show'),1800)};
 document.querySelectorAll('.education-open').forEach(card=>{card.addEventListener('click',()=>openEducation(card.dataset.edu));card.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openEducation(card.dataset.edu)}})});
 document.querySelectorAll('.leadership-card').forEach(card=>{card.addEventListener('click',()=>openLeadership(card.dataset.leadership));card.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openLeadership(card.dataset.leadership)}})});
+document.querySelectorAll('.work-card').forEach(card=>{const toggle=()=>{const open=card.classList.toggle('open');card.setAttribute('aria-expanded',String(open))};card.addEventListener('click',toggle);card.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle()}})});
 function initGalleryAutoplay(){
  const gallery=document.querySelector('.culture-block .gallery');if(!gallery||matchMedia('(prefers-reduced-motion: reduce)').matches)return;
  let paused=false,timer;
