@@ -70,7 +70,7 @@ const researchTitles={zh:['跨境用工与员工派驻','知识产权与研发�
 const educationDetails={
  glasgow:{
   zh:{school:'格拉斯哥大学',degree:'国际商法法学硕士（LLM）',meta:'2022—2023 · 英国格拉斯哥',description:'围绕跨境商业活动中的法律与商业问题进行系统学习，课程涵盖国际投资、跨境交易、公司治理、金融及知识产权等领域。',courses:['国际投资法','国际销售与金融','公司治理','知识产权与市场','国际资本市场','担保融资法']},
-  en:{school:'University of Glasgow',degree:'LLM in International Commercial Law',meta:'2022—2023 · Glasgow, United Kingdom',description:'Focused on the legal and commercial dimensions of cross-border business, with academic training across international investment, commercial transactions, corporate governance, finance and intellectual property.',courses:['International Investment Law','International Sales and Finance','Corporate Governance','Intellectual Property and the Market','International Capital Markets','Law of Secured Finance','Insurance Law']}
+  en:{school:'University of Glasgow',degree:'LLM in International Commercial Law',meta:'2022—2023 · Glasgow, United Kingdom',description:'Focused on the legal and commercial dimensions of cross-border business, with academic training across international investment, commercial transactions, corporate governance, finance and intellectual property.',courses:['International Investment Law','International Sales and Finance','Corporate Governance','Intellectual Property and the Market','International Capital Markets','Law of Secured Finance']}
  },
  nwafu:{
   zh:{school:'西北农林科技大学',degree:'法学学士',meta:'2018—2022 · 中国杨凌',description:'系统建立中国法律体系基础，并重点接触商事法律、争议解决、知识产权与监管相关课程，同时通过管理学和法律经济分析等跨学科课程拓展对企业与社会环境的理解。',courses:['合同法','经济法','国际法','国际私法','仲裁法','知识产权法']},
